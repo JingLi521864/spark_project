@@ -30,3 +30,8 @@ Now I can use Spark to process the data from Hamlet
 
 ## Result:
 ![top10PIC](https://github.com/JingLi521864/spark_project/blob/main/top10PIC.png)
+
+## Reference
+
+- http://shakespeare.mit.edu/hamlet/full.html
+- https://github.com/denisecase/setup-spark
