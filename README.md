@@ -27,3 +27,6 @@ Now I can use Spark to process the data from Hamlet
 ``` val rddSorted = rddHamletSplit.sortBy(_._2, false) ```
 
 5. Becasue there are some ' . '; ' , ' so I count top13 ``` rddSorted.take(13)``` AS top 10 words and use ``` rddSorted.saveAsTextFile("top10") ``` to save results.
+
+## Result:
+![top10PIC](https://github.com/JingLi521864/spark_project/blob/main/top10PIC.png)
