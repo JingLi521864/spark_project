@@ -1,0 +1,8881 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+ "http://www.w3.org/TR/REC-html40/loose.dtd">
+ 
+ 
+ Hamlet: Entire Play
+ 
+ 
+ <LINK rel="stylesheet" type="text/css" media="screen"
+       href="/shake.css">
+ 
+ 
+
+
+ Tragedy  Hamlet, Prince  Denmark
+
+      Shakespeare homepage 
+    | Hamlet 
+    | Entire play
+
+
+ACT 
+SCENE . Elsinore.  platform before  castle.
+
+FRANCISCO   post. Enter   BERNARDO
+
+
+BERNARDO
+
+Who's there?
+
+
+FRANCISCO
+
+Nay, answer : stand,  unfold yourself.
+
+
+BERNARDO
+
+Long live  king!
+
+
+FRANCISCO
+
+Bernardo?
+
+
+BERNARDO
+
+.
+
+
+FRANCISCO
+
+ come most carefully upon your hour.
+
+
+BERNARDO
+
+'Tis  struck twelve; get thee  bed, Francisco.
+
+
+FRANCISCO
+
+ this relief much thanks: 'tis bitter cold,
+   sick  heart.
+
+
+BERNARDO
+
+Have  had quiet guard?
+
+
+FRANCISCO
+
+Not  mouse stirring.
+
+
+BERNARDO
+
+Well, good night.
+   meet Horatio  Marcellus,
+ rivals   watch, bid  make haste.
+
+
+FRANCISCO
+
+ think  hear . Stand, ho! Who's there?
+Enter HORATIO  MARCELLUS
+
+
+HORATIO
+
+Friends  this ground.
+
+
+MARCELLUS
+
+ liegemen   Dane.
+
+
+FRANCISCO
+
+Give  good night.
+
+
+MARCELLUS
+
+O, farewell, honest soldier:
+Who hath relieved ?
+
+
+FRANCISCO
+
+Bernardo has  place.
+Give  good night.
+Exit
+
+
+MARCELLUS
+
+Holla! Bernardo!
+
+
+BERNARDO
+
+Say,
+,  Horatio there?
+
+
+HORATIO
+
+ piece  .
+
+
+BERNARDO
+
+Welcome, Horatio: welcome, good Marcellus.
+
+
+MARCELLUS
+
+, has this thing appear'd again -night?
+
+
+BERNARDO
+
+ have seen nothing.
+
+
+MARCELLUS
+
+Horatio says 'tis  our fantasy,
+  not let belief take hold  
+Touching this dreaded sight, twice seen  us:
+Therefore  have entreated  along
+With us  watch  minutes  this night;
+That  again this apparition come,
+  approve our eyes  speak  .
+
+
+HORATIO
+
+Tush, tush, 'twill not appear.
+
+
+BERNARDO
+
+Sit down awhile;
+ let us once again assail your ears,
+That   fortified against our story
+  have two nights seen.
+
+
+HORATIO
+
+Well, sit  down,
+ let us hear Bernardo speak  this.
+
+
+BERNARDO
+
+Last night  ,
+ yond same star 's westward from  pole
+Had made  course  illume  part  heaven
+   burns, Marcellus  myself,
+ bell then beating one,--
+Enter Ghost
+
+
+MARCELLUS
+
+Peace, break thee off; look,   comes again!
+
+
+BERNARDO
+
+  same figure, like  king 's dead.
+
+
+MARCELLUS
+
+Thou art  scholar; speak  , Horatio.
+
+
+BERNARDO
+
+Looks  not like  king?  mark , Horatio.
+
+
+HORATIO
+
+Most like:  harrows   fear  wonder.
+
+
+BERNARDO
+
+   spoke .
+
+
+MARCELLUS
+
+Question , Horatio.
+
+
+HORATIO
+
+ art thou  usurp'st this time  night,
+Together   fair  warlike form
+ which  majesty  buried Denmark
+Did sometimes march? by heaven  charge thee, speak!
+
+
+MARCELLUS
+
+  offended.
+
+
+BERNARDO
+
+                  See,  stalks away!
+
+
+HORATIO
+
+Stay! speak, speak!  charge thee, speak!
+Exit Ghost
+
+
+MARCELLUS
+
+'Tis gone,   not answer.
+
+
+BERNARDO
+
+How , Horatio!  tremble  look pale:
+ not this something more than fantasy?
+ think  't?
+
+
+HORATIO
+
+Before  God,  might not this believe
+Without  sensible  true avouch
+Of mine own eyes.
+
+
+MARCELLUS
+
+                    not like  king?
+
+
+HORATIO
+
+As thou art  thyself:
+Such   very armour  had 
+   ambitious Norway combated;
+ frown'd  once, ,  an angry parle,
+ smote  sledded Polacks   ice.
+'Tis strange.
+
+
+MARCELLUS
+
+Thus twice before,  jump  this dead hour,
+With martial stalk hath  gone by our watch.
+
+
+HORATIO
+
+  particular thought  work  know not;
+   gross  scope   opinion,
+This bodes some strange eruption  our state.
+
+
+MARCELLUS
+
+Good , sit down,  tell ,   knows,
+Why this same strict  most observant watch
+ nightly toils  subject   land,
+ why such daily cast  brazen cannon,
+ foreign mart  implements  war;
+Why such impress  shipwrights, whose sore task
+Does not divide  Sunday from  week;
+ might  toward,  this sweaty haste
+Doth make  night joint-labourer   day:
+Who 't  can inform ?
+
+
+HORATIO
+
+That can ;
+At least,  whisper goes . Our last king,
+Whose image even   appear'd  us,
+,   know, by Fortinbras  Norway,
+Thereto prick'd  by  most emulate pride,
+Dared   combat;  which our valiant Hamlet--
+  this side  our known world esteem'd --
+Did slay this Fortinbras; who by  seal'd compact,
+Well ratified by law  heraldry,
+Did forfeit,   life,    lands
+Which  stood seized ,   conqueror:
+Against  which,  moiety competent
+ gaged by our king; which had return'd
+  inheritance  Fortinbras,
+Had  been vanquisher; , by  same covenant,
+ carriage   article design'd,
+His fell  Hamlet. , sir, young Fortinbras,
+Of unimproved mettle hot  full,
+Hath   skirts  Norway here  there
+Shark'd   list  lawless resolutes,
+ food  diet,  some enterprise
+That hath  stomach 't; which   other--
+As  doth well appear unto our state--
+  recover  us, by strong hand
+ terms compulsatory,  foresaid lands
+ by  father lost:  this,  take ,
+  main motive  our preparations,
+ source  this our watch   chief head
+Of this post-haste  romage   land.
+
+
+BERNARDO
+
+ think    other  e'en :
+Well   sort  this portentous figure
+Comes armed through our watch;  like  king
+That     question  these wars.
+
+
+HORATIO
+
+ mote    trouble  mind's eye.
+  most high  palmy state  Rome,
+ little ere  mightiest Julius fell,
+ graves stood tenantless   sheeted dead
+Did squeak  gibber   Roman streets:
+As stars  trains  fire  dews  blood,
+Disasters   sun;   moist star
+Upon whose influence Neptune's empire stands
+ sick almost  doomsday  eclipse:
+ even  like precurse  fierce events,
+As harbingers preceding still  fates
+ prologue   omen coming ,
+Have heaven  earth together demonstrated
+Unto our climatures  countrymen.--
+ soft, behold! lo,   comes again!
+Re-enter Ghost
+'ll cross , though  blast . Stay, illusion!
+ thou hast any sound,  use  voice,
+Speak  :
+ there  any good thing   done,
+That   thee  ease  grace  ,
+Speak  :
+Cock crows
+ thou art privy  thy country's fate,
+Which, happily, foreknowing  avoid, O, speak!
+  thou hast uphoarded  thy life
+Extorted treasure   womb  earth,
+ which, they say,  spirits oft walk  death,
+Speak  : stay,  speak! Stop , Marcellus.
+
+
+MARCELLUS
+
+Shall  strike     partisan?
+
+
+HORATIO
+
+,    not stand.
+
+
+BERNARDO
+
+'Tis here!
+
+
+HORATIO
+
+'Tis here!
+
+
+MARCELLUS
+
+'Tis gone!
+Exit Ghost
+We   wrong, being  majestical,
+ offer   show  violence;
+  ,   air, invulnerable,
+ our vain blows malicious mockery.
+
+
+BERNARDO
+
+  about  speak,   cock crew.
+
+
+HORATIO
+
+ then  started like  guilty thing
+Upon  fearful summons.  have heard,
+ cock,    trumpet   morn,
+Doth   lofty  shrill-sounding throat
+Awake  god  day; ,   warning,
+Whether  sea  fire,  earth  air,
+ extravagant  erring spirit hies
+  confine:    truth herein
+This present object made probation.
+
+
+MARCELLUS
+
+ faded   crowing   cock.
+Some say  ever 'gainst  season comes
+Wherein our Saviour's birth  celebrated,
+ bird  dawning singeth  night long:
+ then, they say,  spirit dares stir abroad;
+ nights  wholesome; then  planets strike,
+ fairy takes, nor witch hath power  charm,
+ hallow'd   gracious   time.
+
+
+HORATIO
+
+ have  heard    part believe .
+, look,  morn,  russet mantle clad,
+Walks o'er  dew  yon high eastward hill:
+Break  our watch ;  by  advice,
+Let us impart   have seen -night
+Unto young Hamlet; , upon  life,
+This spirit, dumb  us,  speak  .
+  consent  shall acquaint   ,
+As needful  our loves, fitting our duty?
+
+
+MARCELLUS
+
+Let's 't,  pray;   this morning know
+  shall find  most conveniently.
+Exeunt
+
+SCENE II.  room  state   castle.
+
+Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET,  POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, Lords,  Attendants
+
+
+KING CLAUDIUS
+
+Though yet  Hamlet our dear brother's death
+ memory  green,    us befitted
+ bear our hearts  grief  our whole kingdom
+  contracted  one brow  woe,
+Yet  far hath discretion fought  nature
+That   wisest sorrow think  ,
+Together  remembrance  ourselves.
+Therefore our sometime sister,  our queen,
+ imperial jointress  this warlike state,
+Have ,  'twere   defeated joy,--
+With an auspicious   dropping eye,
+With mirth  funeral   dirge  marriage,
+ equal scale weighing delight  dole,--
+Taken  wife: nor have  herein barr'd
+Your better wisdoms, which have freely gone
+With this affair along.  , our thanks.
+ follows,   know, young Fortinbras,
+Holding  weak supposal  our worth,
+ thinking by our late dear brother's death
+Our state   disjoint  out  frame,
+Colleagued   dream   advantage,
+ hath not fail'd  pester us  message,
+Importing  surrender   lands
+Lost by  father,   bonds  law,
+ our most valiant brother.  much  .
+  ourself   this time  meeting:
+Thus much  business :  have here writ
+ Norway, uncle  young Fortinbras,--
+Who, impotent  bed-rid, scarcely hears
+Of this  nephew's purpose,-- suppress
+His further gait herein;    levies,
+ lists  full proportions,   made
+Out   subject:   here dispatch
+, good Cornelius,  , Voltimand,
+ bearers  this greeting  old Norway;
+Giving    further personal power
+ business   king, more than  scope
+Of these delated articles allow.
+Farewell,  let your haste commend your duty.
+
+
+CORNELIUS
+
+VOLTIMAND
+
+    things   show our duty.
+
+
+KING CLAUDIUS
+
+We doubt  nothing: heartily farewell.
+Exeunt VOLTIMAND  CORNELIUS
+ , Laertes, 's  news  ?
+ told us  some suit;  't, Laertes?
+ cannot speak  reason   Dane,
+ loose your voice:  wouldst thou beg, Laertes,
+That shall not   offer, not thy asking?
+ head  not more native   heart,
+ hand more instrumental   mouth,
+Than   throne  Denmark  thy father.
+ wouldst thou have, Laertes?
+
+
+LAERTES
+
+ dread lord,
+Your leave  favour  return  France;
+From whence though willingly  came  Denmark,
+ show  duty  your coronation,
+Yet ,  must confess,  duty done,
+ thoughts  wishes bend again toward France
+ bow   your gracious leave  pardon.
+
+
+KING CLAUDIUS
+
+Have  your father's leave?  says Polonius?
+
+
+LORD POLONIUS
+
+ hath,  lord, wrung from   slow leave
+By laboursome petition,   last
+Upon    seal'd  hard consent:
+  beseech , give  leave  go.
+
+
+KING CLAUDIUS
+
+Take thy fair hour, Laertes; time  thine,
+ thy best graces spend   thy !
+ ,  cousin Hamlet,   son,--
+
+
+HAMLET
+
+[Aside]   little more than kin,  less than kind.
+
+
+KING CLAUDIUS
+
+How     clouds still hang  ?
+
+
+HAMLET
+
+Not ,  lord;   too much '  sun.
+
+
+QUEEN GERTRUDE
+
+Good Hamlet, cast thy nighted colour off,
+ let thine eye look like  friend  Denmark.
+ not  ever  thy vailed lids
+Seek  thy noble father   dust:
+Thou know'st 'tis common;   lives must die,
+Passing through nature  eternity.
+
+
+HAMLET
+
+Ay, madam,   common.
+
+
+QUEEN GERTRUDE
+
+  ,
+Why seems   particular  thee?
+
+
+HAMLET
+
+Seems, madam! nay  ;  know not 'seems.'
+'Tis not alone  inky cloak, good mother,
+Nor customary suits  solemn black,
+Nor windy suspiration  forced breath,
+, nor  fruitful river   eye,
+Nor  dejected 'havior   visage,
+Together   forms, moods, shapes  grief,
+That can denote  truly: these indeed seem,
+ they  actions   man might play:
+  have  within which passeth show;
+These   trappings   suits  woe.
+
+
+KING CLAUDIUS
+
+'Tis sweet  commendable  your nature, Hamlet,
+ give these mourning duties  your father:
+,  must know, your father lost  father;
+That father lost, lost ,   survivor bound
+ filial obligation  some term
+  obsequious sorrow:   persever
+ obstinate condolement   course
+Of impious stubbornness; 'tis unmanly grief;
+ shows   most incorrect  heaven,
+ heart unfortified,  mind impatient,
+An understanding simple  unschool'd:
+   know must     common
+As any  most vulgar thing  sense,
+Why should   our peevish opposition
+Take   heart? Fie! 'tis  fault  heaven,
+ fault against  dead,  fault  nature,
+ reason most absurd: whose common theme
+ death  fathers,  who still hath cried,
+From  first corse till   died -day,
+'This must  .' We pray , throw  earth
+This unprevailing woe,  think  us
+As   father:  let  world take note,
+   most immediate  our throne;
+   less nobility  love
+Than  which dearest father bears  son,
+  impart toward .  your intent
+ going back  school  Wittenberg,
+  most retrograde  our desire:
+  beseech , bend   remain
+Here,   cheer  comfort  our eye,
+Our chiefest courtier, cousin,  our son.
+
+
+QUEEN GERTRUDE
+
+Let not thy mother lose  prayers, Hamlet:
+ pray thee, stay  us; go not  Wittenberg.
+
+
+HAMLET
+
+ shall    best obey , madam.
+
+
+KING CLAUDIUS
+
+Why, 'tis  loving   fair reply:
+Be  ourself  Denmark. Madam, come;
+This gentle  unforced accord  Hamlet
+Sits smiling   heart:  grace whereof,
+ jocund health  Denmark drinks -day,
+  great cannon   clouds shall tell,
+  king's rouse  heavens  bruit again,
+Re-speaking earthly thunder. Come away.
+Exeunt   HAMLET
+
+
+HAMLET
+
+O,  this too too solid flesh  melt
+Thaw  resolve itself into  dew!
+   Everlasting had not fix'd
+His canon 'gainst self-slaughter! O God! God!
+How weary, stale, flat  unprofitable,
+Seem     uses  this world!
+Fie 't! ah fie! 'tis an unweeded garden,
+That grows  seed; things rank  gross  nature
+Possess  merely. That  should come  this!
+ two months dead: nay, not  much, not two:
+ excellent  king;  ,  this,
+Hyperion   satyr;  loving   mother
+That  might not beteem  winds  heaven
+Visit  face too roughly. Heaven  earth!
+Must  remember? why,   hang  ,
+As  increase  appetite had grown
+By   fed :  yet, within  month--
+Let  not think 't--Frailty, thy name  woman!--
+ little month,  ere  shoes were old
+With which  follow'd  poor father's body,
+Like Niobe,  tears:--why , even --
+O, God!  beast,  wants discourse  reason,
+ have mourn'd longer--married   uncle,
+ father's brother,   more like  father
+Than   Hercules: within  month:
+Ere yet  salt  most unrighteous tears
+Had left  flushing   galled eyes,
+ married. O, most wicked speed,  post
+With such dexterity  incestuous sheets!
+  not nor  cannot come  good:
+ break,  heart;   must hold  tongue.
+Enter HORATIO, MARCELLUS,  BERNARDO
+
+
+HORATIO
+
+Hail  your lordship!
+
+
+HAMLET
+
+  glad  see  well:
+Horatio,--   forget myself.
+
+
+HORATIO
+
+ same,  lord,  your poor servant ever.
+
+
+HAMLET
+
+Sir,  good friend; 'll change  name  :
+  make  from Wittenberg, Horatio? Marcellus?
+
+
+MARCELLUS
+
+ good lord--
+
+
+HAMLET
+
+  very glad  see . Good even, sir.
+ ,  faith, make  from Wittenberg?
+
+
+HORATIO
+
+ truant disposition, good  lord.
+
+
+HAMLET
+
+  not hear your enemy say ,
+Nor shall   mine ear  violence,
+ make  truster  your own report
+Against yourself:  know    truant.
+   your affair  Elsinore?
+We'll teach   drink deep ere  depart.
+
+
+HORATIO
+
+ lord,  came  see your father's funeral.
+
+
+HAMLET
+
+ pray thee,  not mock , fellow-student;
+ think    see  mother's wedding.
+
+
+HORATIO
+
+Indeed,  lord,  follow'd hard upon.
+
+
+HAMLET
+
+Thrift, thrift, Horatio!  funeral baked meats
+Did coldly furnish forth  marriage tables.
+  had met  dearest foe  heaven
+ ever  had seen  day, Horatio!
+ father!--methinks  see  father.
+
+
+HORATIO
+
+,  lord?
+
+
+HAMLET
+
+                    mind's eye, Horatio.
+
+
+HORATIO
+
+ saw  once;    goodly king.
+
+
+HAMLET
+
+   man, take     ,
+ shall not look upon  like again.
+
+
+HORATIO
+
+ lord,  think  saw  yesternight.
+
+
+HAMLET
+
+Saw? who?
+
+
+HORATIO
+
+ lord,  king your father.
+
+
+HAMLET
+
+ king  father!
+
+
+HORATIO
+
+Season your admiration  awhile
+With an attent ear, till   deliver,
+Upon  witness  these gentlemen,
+This marvel  .
+
+
+HAMLET
+
+ God's love, let  hear.
+
+
+HORATIO
+
+Two nights together had these gentlemen,
+Marcellus  Bernardo,  their watch,
+  dead vast  middle   night,
+Been thus encounter'd.  figure like your father,
+Armed  point exactly, cap--pe,
+Appears before ,   solemn march
+Goes slow  stately by : thrice  walk'd
+By their oppress'd  fear-surprised eyes,
+Within  truncheon's length; whilst they, distilled
+Almost  jelly   act  fear,
+Stand dumb  speak not  . This  
+ dreadful secrecy impart they did;
+     third night kept  watch;
+,  they had deliver'd, both  time,
+Form   thing, each word made true  good,
+ apparition comes:  knew your father;
+These hands  not more like.
+
+
+HAMLET
+
+   this?
+
+
+MARCELLUS
+
+ lord, upon  platform   watch'd.
+
+
+HAMLET
+
+Did  not speak  ?
+
+
+HORATIO
+
+ lord,  did;
+ answer made  none: yet once methought
+ lifted  its head  did address
+Itself  motion, like    speak;
+ even then  morning cock crew loud,
+   sound  shrunk  haste away,
+ vanish'd from our sight.
+
+
+HAMLET
+
+'Tis very strange.
+
+
+HORATIO
+
+As   live,  honour'd lord, 'tis true;
+  did think  writ down  our duty
+ let  know  .
+
+
+HAMLET
+
+Indeed, indeed, sirs,  this troubles .
+Hold   watch -night?
+
+
+MARCELLUS
+
+BERNARDO
+
+We ,  lord.
+
+
+HAMLET
+
+Arm'd, say ?
+
+
+MARCELLUS
+
+BERNARDO
+
+Arm'd,  lord.
+
+
+HAMLET
+
+From top  toe?
+
+
+MARCELLUS
+
+BERNARDO
+
+ lord, from head  foot.
+
+
+HAMLET
+
+Then saw  not  face?
+
+
+HORATIO
+
+O, ,  lord;  wore  beaver .
+
+
+HAMLET
+
+, look'd  frowningly?
+
+
+HORATIO
+
+ countenance more  sorrow than  anger.
+
+
+HAMLET
+
+Pale  red?
+
+
+HORATIO
+
+Nay, very pale.
+
+
+HAMLET
+
+                   fix'd  eyes upon ?
+
+
+HORATIO
+
+Most constantly.
+
+
+HAMLET
+
+                     had been there.
+
+
+HORATIO
+
+  have much amazed .
+
+
+HAMLET
+
+Very like, very like. Stay'd  long?
+
+
+HORATIO
+
+While one  moderate haste might tell  hundred.
+
+
+MARCELLUS
+
+BERNARDO
+
+Longer, longer.
+
+
+HORATIO
+
+Not   saw't.
+
+
+HAMLET
+
+                  His beard  grizzled--?
+
+
+HORATIO
+
+ ,   have seen    life,
+ sable silver'd.
+
+
+HAMLET
+
+                    watch -night;
+Perchance 'twill walk again.
+
+
+HORATIO
+
+ warrant  .
+
+
+HAMLET
+
+  assume  noble father's person,
+'ll speak  , though hell itself should gape
+ bid  hold  peace.  pray  ,
+  have hitherto conceal'd this sight,
+Let   tenable  your silence still;
+ whatsoever else shall hap -night,
+Give  an understanding,   tongue:
+  requite your loves. , fare  well:
+Upon  platform, 'twixt eleven  twelve,
+'ll visit .
+
+
+
+
+                  Our duty  your honour.
+
+
+HAMLET
+
+Your loves,  mine  : farewell.
+Exeunt   HAMLET
+ father's spirit  arms!   not well;
+ doubt some foul play:   night were come!
+Till then sit still,  soul: foul deeds  rise,
+Though   earth o'erwhelm ,  men's eyes.
+Exit
+
+SCENE III.  room  Polonius' house.
+
+Enter LAERTES  OPHELIA
+
+
+LAERTES
+
+ necessaries  embark'd: farewell:
+, sister,   winds give benefit
+ convoy  assistant,  not sleep,
+ let  hear from .
+
+
+OPHELIA
+
+  doubt ?
+
+
+LAERTES
+
+ Hamlet   trifling   favour,
+Hold   fashion   toy  blood,
+ violet   youth  primy nature,
+Forward, not permanent, sweet, not lasting,
+ perfume  suppliance   minute;  more.
+
+
+OPHELIA
+
+        more  ?
+
+
+LAERTES
+
+Think   more;
+ nature, crescent, does not grow alone
+ thews  bulk, ,  this temple waxes,
+ inward service   mind  soul
+Grows wide withal. Perhaps  loves  ,
+   soil nor cautel doth besmirch
+ virtue   :   must fear,
+His greatness weigh'd,    not  own;
+  himself  subject   birth:
+  not,  unvalued persons ,
+Carve  himself;    choice depends
+ safety  health  this whole state;
+ therefore must  choice  circumscribed
+Unto  voice  yielding   body
+Whereof    head. Then   says  loves ,
+ fits your wisdom  far  believe 
+As    particular act  place
+May give  saying deed; which   further
+Than  main voice  Denmark goes withal.
+Then weigh  loss your honour  sustain,
+  too credent ear  list  songs,
+ lose your heart,  your chaste treasure open
+  unmaster'd importunity.
+Fear , Ophelia, fear ,  dear sister,
+ keep    rear  your affection,
+Out   shot  danger  desire.
+ chariest maid  prodigal enough,
+  unmask  beauty   moon:
+Virtue itself 'scapes not calumnious strokes:
+ canker galls  infants   spring,
+Too oft before their buttons  disclosed,
+   morn  liquid dew  youth
+Contagious blastments  most imminent.
+Be wary then; best safety lies  fear:
+Youth  itself rebels, though none else near.
+
+
+OPHELIA
+
+ shall  effect  this good lesson keep,
+As watchman   heart. , good  brother,
+ not,  some ungracious pastors ,
+Show   steep  thorny way  heaven;
+Whiles, like  puff'd  reckless libertine,
+Himself  primrose path  dalliance treads,
+ recks not  own rede.
+
+
+LAERTES
+
+O, fear  not.
+ stay too long:  here  father comes.
+Enter POLONIUS
+ double blessing   double grace,
+Occasion smiles upon  second leave.
+
+
+LORD POLONIUS
+
+Yet here, Laertes! aboard, aboard,  shame!
+ wind sits   shoulder  your sail,
+   stay'd . There;  blessing  thee!
+ these few precepts  thy memory
+See thou character. Give thy thoughts  tongue,
+Nor any unproportioned thought  act.
+Be thou familiar,  by  means vulgar.
+Those friends thou hast,  their adoption tried,
+Grapple   thy soul  hoops  steel;
+  not dull thy palm  entertainment
+Of each new-hatch'd, unfledged comrade. Beware
+Of entrance   quarrel,  being ,
+Bear't   opposed  beware  thee.
+Give every man thy ear,  few thy voice;
+Take each man's censure,  reserve thy judgment.
+Costly thy habit  thy purse can buy,
+ not express'd  fancy; rich, not gaudy;
+  apparel oft proclaims  man,
+ they  France   best rank  station
+Are   most select  generous chief  .
+Neither  borrower nor  lender ;
+ loan oft loses both itself  friend,
+ borrowing dulls  edge  husbandry.
+This above :  thine ownself  true,
+  must follow,   night  day,
+Thou canst not then  false  any man.
+Farewell:  blessing season this  thee!
+
+
+LAERTES
+
+Most humbly   take  leave,  lord.
+
+
+LORD POLONIUS
+
+ time invites ; go; your servants tend.
+
+
+LAERTES
+
+Farewell, Ophelia;  remember well
+  have said  .
+
+
+OPHELIA
+
+'Tis   memory lock'd,
+  yourself shall keep  key  .
+
+
+LAERTES
+
+Farewell.
+Exit
+
+
+LORD POLONIUS
+
+ 't, Ophelia,  hath said  ?
+
+
+OPHELIA
+
+ please , something touching  Lord Hamlet.
+
+
+LORD POLONIUS
+
+Marry, well bethought:
+'Tis told ,  hath very oft  late
+Given private time  ;   yourself
+Have  your audience been most free  bounteous:
+   ,   'tis put  ,
+   way  caution,  must tell ,
+  not understand yourself  clearly
+As  behoves  daughter  your honour.
+  between ? give    truth.
+
+
+OPHELIA
+
+ hath,  lord,  late made many tenders
+Of  affection  .
+
+
+LORD POLONIUS
+
+Affection! pooh!  speak like  green girl,
+Unsifted  such perilous circumstance.
+  believe  tenders,   call ?
+
+
+OPHELIA
+
+  not know,  lord,   should think.
+
+
+LORD POLONIUS
+
+Marry, 'll teach : think yourself  baby;
+That  have ta'en these tenders  true pay,
+Which  not sterling. Tender yourself more dearly;
+--not  crack  wind   poor phrase,
+Running  thus--'ll tender   fool.
+
+
+OPHELIA
+
+ lord,  hath importuned   love
+ honourable fashion.
+
+
+LORD POLONIUS
+
+Ay, fashion   call ; go , go .
+
+
+OPHELIA
+
+ hath given countenance   speech,  lord,
+With almost   holy vows  heaven.
+
+
+LORD POLONIUS
+
+Ay, springes  catch woodcocks.   know,
+  blood burns, how prodigal  soul
+Lends  tongue vows: these blazes, daughter,
+Giving more light than heat, extinct  both,
+Even  their promise,    -making,
+ must not take  fire. From this time
+Be somewhat scanter  your maiden presence;
+Set your entreatments   higher rate
+Than  command  parley.  Lord Hamlet,
+Believe  much  ,    young
+   larger tether   walk
+Than   given :  few, Ophelia,
+ not believe  vows;  they  brokers,
+Not   dye which their investments show,
+ mere implorators  unholy suits,
+Breathing like sanctified  pious bawds,
+ better  beguile. This   :
+  not,  plain terms, from this time forth,
+Have   slander any moment leisure,
+As  give words  talk   Lord Hamlet.
+Look 't,  charge : come your ways.
+
+
+OPHELIA
+
+ shall obey,  lord.
+Exeunt
+
+SCENE IV.  platform.
+
+Enter HAMLET, HORATIO,  MARCELLUS
+
+
+HAMLET
+
+ air bites shrewdly;   very cold.
+
+
+HORATIO
+
+   nipping  an eager air.
+
+
+HAMLET
+
+ hour ?
+
+
+HORATIO
+
+                   think  lacks  twelve.
+
+
+HAMLET
+
+,   struck.
+
+
+HORATIO
+
+Indeed?  heard  not: then  draws near  season
+Wherein  spirit held  wont  walk.
+ flourish  trumpets,  ordnance shot off, within
+ does this mean,  lord?
+
+
+HAMLET
+
+ king doth wake -night  takes  rouse,
+Keeps wassail,   swaggering -spring reels;
+,   drains  draughts  Rhenish down,
+ kettle-drum  trumpet thus bray out
+ triumph   pledge.
+
+
+HORATIO
+
+   custom?
+
+
+HAMLET
+
+Ay, marry, 't:
+   mind, though   native here
+   manner born,    custom
+More honour'd   breach than  observance.
+This heavy-headed revel east  west
+Makes us traduced  tax'd  other nations:
+They clepe us drunkards,   swinish phrase
+Soil our addition;  indeed  takes
+From our achievements, though perform'd  height,
+ pith  marrow  our attribute.
+, oft  chances  particular men,
+That  some vicious mole  nature  ,
+As,  their birth--wherein they  not guilty,
+Since nature cannot choose  origin--
+By  o'ergrowth  some complexion,
+Oft breaking down  pales  forts  reason,
+ by some habit  too much o'er-leavens
+ form  plausive manners,  these men,
+Carrying,  say,  stamp  one defect,
+Being nature's livery,  fortune's star,--
+Their virtues else-- they  pure  grace,
+As infinite  man  undergo--
+Shall   general censure take corruption
+From  particular fault:  dram  eale
+Doth   noble substance   doubt
+  own scandal.
+
+
+HORATIO
+
+Look,  lord,  comes!
+Enter Ghost
+
+
+HAMLET
+
+Angels  ministers  grace defend us!
+Be thou  spirit  health  goblin damn'd,
+Bring  thee airs from heaven  blasts from hell,
+Be thy intents wicked  charitable,
+Thou comest  such  questionable shape
+That   speak  thee: 'll call thee Hamlet,
+King, father, royal Dane: O, answer !
+Let  not burst  ignorance;  tell
+Why thy canonized bones, hearsed  death,
+Have burst their cerements; why  sepulchre,
+Wherein  saw thee quietly inurn'd,
+Hath oped  ponderous  marble jaws,
+ cast thee  again.   this mean,
+That thou, dead corse, again  complete steel
+Revisit'st thus  glimpses   moon,
+Making night hideous;   fools  nature
+ horridly  shake our disposition
+With thoughts beyond  reaches  our souls?
+Say, why  this? wherefore?  should  ?
+Ghost beckons HAMLET
+
+
+HORATIO
+
+ beckons   go away  ,
+As   some impartment did desire
+  alone.
+
+
+MARCELLUS
+
+                  Look,   courteous action
+ waves    more removed ground:
+  not go  .
+
+
+HORATIO
+
+, by  means.
+
+
+HAMLET
+
+  not speak; then   follow .
+
+
+HORATIO
+
+ not,  lord.
+
+
+HAMLET
+
+                  Why,  should   fear?
+  not set  life   pin's fee;
+   soul,  can    ,
+Being  thing immortal  itself?
+ waves  forth again: 'll follow .
+
+
+HORATIO
+
+   tempt  toward  flood,  lord,
+   dreadful summit   cliff
+That beetles o'er  base into  sea,
+ there assume some other horrible form,
+Which might deprive your sovereignty  reason
+ draw  into madness? think  :
+ very place puts toys  desperation,
+Without more motive, into every brain
+That looks  many fathoms   sea
+ hears  roar beneath.
+
+
+HAMLET
+
+ waves  still.
+Go ; 'll follow thee.
+
+
+MARCELLUS
+
+ shall not go,  lord.
+
+
+HAMLET
+
+Hold off your hands.
+
+
+HORATIO
+
+Be ruled;  shall not go.
+
+
+HAMLET
+
+ fate cries out,
+ makes each petty artery  this body
+As hardy   Nemean lion's nerve.
+Still   call'd. Unhand , gentlemen.
+By heaven, 'll make  ghost    lets !
+ say, away! Go ; 'll follow thee.
+Exeunt Ghost  HAMLET
+
+
+HORATIO
+
+ waxes desperate  imagination.
+
+
+MARCELLUS
+
+Let's follow; 'tis not fit thus  obey .
+
+
+HORATIO
+
+Have after.   issue  this come?
+
+
+MARCELLUS
+
+Something  rotten   state  Denmark.
+
+
+HORATIO
+
+Heaven  direct .
+
+
+MARCELLUS
+
+Nay, let's follow .
+Exeunt
+
+SCENE V. Another part   platform.
+
+Enter GHOST  HAMLET
+
+
+HAMLET
+
+ wilt thou lead ? speak; 'll go  further.
+
+
+Ghost
+
+Mark .
+
+
+HAMLET
+
+        .
+
+
+Ghost
+
+                   hour  almost come,
+   sulphurous  tormenting flames
+Must render  myself.
+
+
+HAMLET
+
+Alas, poor ghost!
+
+
+Ghost
+
+Pity  not,  lend thy serious hearing
+   shall unfold.
+
+
+HAMLET
+
+Speak;   bound  hear.
+
+
+Ghost
+
+  art thou  revenge,  thou shalt hear.
+
+
+HAMLET
+
+?
+
+
+Ghost
+
+  thy father's spirit,
+Doom'd   certain term  walk  night,
+   day confined  fast  fires,
+Till  foul crimes done   days  nature
+Are burnt  purged away.     forbid
+ tell  secrets   prison-house,
+ could  tale unfold whose lightest word
+ harrow  thy soul, freeze thy young blood,
+Make thy two eyes, like stars, start from their spheres,
+Thy knotted  combined locks  part
+ each particular hair  stand  end,
+Like quills upon  fretful porpentine:
+ this eternal blazon must not 
+ ears  flesh  blood. List, list, O, list!
+ thou didst ever thy dear father love--
+
+
+HAMLET
+
+O God!
+
+
+Ghost
+
+Revenge  foul  most unnatural murder.
+
+
+HAMLET
+
+Murder!
+
+
+Ghost
+
+Murder most foul,    best  ;
+ this most foul, strange  unnatural.
+
+
+HAMLET
+
+Haste   know't,  ,  wings  swift
+As meditation   thoughts  love,
+May sweep   revenge.
+
+
+Ghost
+
+ find thee apt;
+ duller shouldst thou  than  fat weed
+That roots itself  ease  Lethe wharf,
+Wouldst thou not stir  this. , Hamlet, hear:
+'Tis given out , sleeping   orchard,
+ serpent stung ;   whole ear  Denmark
+ by  forged process   death
+Rankly abused:  know, thou noble youth,
+ serpent  did sting thy father's life
+ wears  crown.
+
+
+HAMLET
+
+O  prophetic soul!  uncle!
+
+
+Ghost
+
+Ay,  incestuous,  adulterate beast,
+With witchcraft   wit,  traitorous gifts,--
+O wicked wit  gifts,  have  power
+  seduce!--won   shameful lust
+    most seeming-virtuous queen:
+O Hamlet,   falling-off  there!
+From , whose love    dignity
+That  went hand  hand even   vow
+ made    marriage,   decline
+Upon  wretch whose natural gifts were poor
+   mine!
+ virtue,   never   moved,
+Though lewdness court    shape  heaven,
+ lust, though   radiant angel link'd,
+ sate itself   celestial bed,
+ prey  garbage.
+, soft! methinks  scent  morning air;
+Brief let  . Sleeping within  orchard,
+ custom always   afternoon,
+Upon  secure hour thy uncle stole,
+With juice  cursed hebenon   vial,
+   porches   ears did pour
+ leperous distilment; whose effect
+Holds such an enmity  blood  man
+That swift  quicksilver  courses through
+ natural gates  alleys   body,
+   sudden vigour doth posset
+ curd, like eager droppings into milk,
+ thin  wholesome blood:  did  mine;
+  most instant tetter bark'd about,
+Most lazar-like,  vile  loathsome crust,
+  smooth body.
+Thus  , sleeping, by  brother's hand
+Of life,  crown,  queen,  once dispatch'd:
+Cut off even   blossoms   sin,
+Unhousel'd, disappointed, unanel'd,
+ reckoning made,  sent   account
+With   imperfections   head:
+O, horrible! O, horrible! most horrible!
+ thou hast nature  thee, bear  not;
+Let not  royal bed  Denmark 
+ couch  luxury  damned incest.
+, howsoever thou pursuest this act,
+Taint not thy mind, nor let thy soul contrive
+Against thy mother aught: leave   heaven
+   thorns    bosom lodge,
+ prick  sting . Fare thee well  once!
+ glow-worm shows  matin   near,
+ 'gins  pale  uneffectual fire:
+Adieu, adieu! Hamlet, remember .
+Exit
+
+
+HAMLET
+
+O   host  heaven! O earth!  else?
+ shall  couple hell? O, fie! Hold, hold,  heart;
+ ,  sinews, grow not instant old,
+ bear  stiffly . Remember thee!
+Ay, thou poor ghost, while memory holds  seat
+ this distracted globe. Remember thee!
+Yea, from  table   memory
+'ll wipe away  trivial fond records,
+ saws  books,  forms,  pressures past,
+That youth  observation copied there;
+ thy commandment  alone shall live
+Within  book  volume   brain,
+Unmix'd  baser matter: , by heaven!
+O most pernicious woman!
+O villain, villain, smiling, damned villain!
+ tables,--meet    set  down,
+That one  smile,  smile,    villain;
+At least 'm sure      Denmark:
+Writing
+, uncle, there  .    word;
+  'Adieu, adieu! remember .'
+ have sworn 't.
+
+
+MARCELLUS
+
+HORATIO
+
+[Within]   lord,  lord,--
+
+
+MARCELLUS
+
+[Within]	Lord Hamlet,--
+
+
+HORATIO
+
+[Within]	Heaven secure !
+
+
+HAMLET
+
+  !
+
+
+HORATIO
+
+[Within]  Hillo, ho, ho,  lord!
+
+
+HAMLET
+
+Hillo, ho, ho, boy! come, bird, come.
+Enter HORATIO  MARCELLUS
+
+
+MARCELLUS
+
+How 't,  noble lord?
+
+
+HORATIO
+
+ news,  lord?
+
+
+HAMLET
+
+O, wonderful!
+
+
+HORATIO
+
+                  Good  lord, tell .
+
+
+HAMLET
+
+; 'll reveal .
+
+
+HORATIO
+
+Not ,  lord, by heaven.
+
+
+MARCELLUS
+
+Nor ,  lord.
+
+
+HAMLET
+
+How say , then;  heart  man once think ?
+ 'll  secret?
+
+
+HORATIO
+
+MARCELLUS
+
+Ay, by heaven,  lord.
+
+
+HAMLET
+
+There's ne'er  villain dwelling   Denmark
+ 's an arrant knave.
+
+
+HORATIO
+
+There needs  ghost,  lord, come from  grave
+ tell us this.
+
+
+HAMLET
+
+                  Why, right;   '  right;
+ , without more circumstance  ,
+ hold  fit   shake hands  part:
+,  your business  desire shall point ;
+ every man has business  desire,
+Such   ;   mine own poor part,
+Look , 'll go pray.
+
+
+HORATIO
+
+These   wild  whirling words,  lord.
+
+
+HAMLET
+
+'m sorry they offend , heartily;
+, 'faith heartily.
+
+
+HORATIO
+
+There's  offence,  lord.
+
+
+HAMLET
+
+, by Saint Patrick,  there , Horatio,
+ much offence too. Touching this vision here,
+  an honest ghost,  let  tell :
+ your desire  know   between us,
+O'ermaster 't   .  , good friends,
+As   friends, scholars  soldiers,
+Give  one poor request.
+
+
+HORATIO
+
+ 't,  lord?  .
+
+
+HAMLET
+
+Never make known   have seen -night.
+
+
+HORATIO
+
+MARCELLUS
+
+ lord,   not.
+
+
+HAMLET
+
+Nay,  swear't.
+
+
+HORATIO
+
+ faith,
+ lord, not .
+
+
+MARCELLUS
+
+                  Nor ,  lord,  faith.
+
+
+HAMLET
+
+Upon  sword.
+
+
+MARCELLUS
+
+                  We have sworn,  lord, already.
+
+
+HAMLET
+
+Indeed, upon  sword, indeed.
+
+
+Ghost
+
+[Beneath]  Swear.
+
+
+HAMLET
+
+Ah, ha, boy! say'st thou ? art thou there,
+truepenny?
+Come -- hear this fellow   cellarage--
+Consent  swear.
+
+
+HORATIO
+
+                  Propose  oath,  lord.
+
+
+HAMLET
+
+Never  speak  this   have seen,
+Swear by  sword.
+
+
+Ghost
+
+[Beneath]  Swear.
+
+
+HAMLET
+
+Hic et ubique? then 'll shift our ground.
+Come hither, gentlemen,
+ lay your hands again upon  sword:
+Never  speak  this   have heard,
+Swear by  sword.
+
+
+Ghost
+
+[Beneath]  Swear.
+
+
+HAMLET
+
+Well said, old mole! canst work '  earth  fast?
+ worthy pioner! Once more remove, good friends.
+
+
+HORATIO
+
+O day  night,  this  wondrous strange!
+
+
+HAMLET
+
+ therefore   stranger give  welcome.
+There  more things  heaven  earth, Horatio,
+Than  dreamt   your philosophy.  come;
+Here,  before, never,  help  mercy,
+How strange  odd soe'er  bear myself,
+As  perchance hereafter shall think meet
+ put an antic disposition ,
+That ,  such times seeing , never shall,
+With arms encumber'd thus,  this headshake,
+ by pronouncing  some doubtful phrase,
+As 'Well, well,  know,'  'We could, an   ,'
+ '  list  speak,'  'There , an  they might,'
+ such ambiguous giving out,  note
+That  know aught  : this not  ,
+ grace  mercy  your most need help , Swear.
+
+
+Ghost
+
+[Beneath]  Swear.
+
+
+HAMLET
+
+Rest, rest, perturbed spirit!
+They swear
+, gentlemen,
+With   love   commend   :
+   poor  man  Hamlet 
+May ,  express  love  friending  ,
+God willing, shall not lack. Let us go  together;
+ still your fingers  your lips,  pray.
+ time  out  joint: O cursed spite,
+That ever   born  set  right!
+Nay, come, let's go together.
+Exeunt
+
+ACT II
+SCENE .  room  POLONIUS' house.
+
+Enter POLONIUS  REYNALDO
+
+
+LORD POLONIUS
+
+Give  this money  these notes, Reynaldo.
+
+
+REYNALDO
+
+ ,  lord.
+
+
+LORD POLONIUS
+
+ shall  marvellous wisely, good Reynaldo,
+Before  visit ,  make inquire
+Of  behavior.
+
+
+REYNALDO
+
+                   lord,  did intend .
+
+
+LORD POLONIUS
+
+Marry, well said; very well said. Look , sir,
+Inquire  first  Danskers   Paris;
+ how,  who,  means,   they keep,
+ company,   expense;  finding
+By this encompassment  drift  question
+That they  know  son, come  more nearer
+Than your particular demands  touch :
+Take ,  'twere, some distant knowledge  ;
+As thus, ' know  father   friends,
+  part : '   mark this, Reynaldo?
+
+
+REYNALDO
+
+Ay, very well,  lord.
+
+
+LORD POLONIUS
+
+'  part ; '   say 'not well:
+, 't    mean, 's very wild;
+Addicted   :'  there put  
+ forgeries  please; marry, none  rank
+As  dishonour ; take heed  ;
+, sir, such wanton, wild  usual slips
+As  companions noted  most known
+ youth  liberty.
+
+
+REYNALDO
+
+As gaming,  lord.
+
+
+LORD POLONIUS
+
+Ay,  drinking, fencing, swearing, quarrelling,
+Drabbing:   go  far.
+
+
+REYNALDO
+
+ lord,   dishonour .
+
+
+LORD POLONIUS
+
+'Faith, ;    season    charge
+ must not put another scandal  ,
+That   open  incontinency;
+That's not  meaning:  breathe  faults  quaintly
+That they  seem  taints  liberty,
+ flash  outbreak   fiery mind,
+ savageness  unreclaimed blood,
+Of general assault.
+
+
+REYNALDO
+
+,  good lord,--
+
+
+LORD POLONIUS
+
+Wherefore should   this?
+
+
+REYNALDO
+
+Ay,  lord,
+  know .
+
+
+LORD POLONIUS
+
+                  Marry, sir, here's  drift;
+  believe,    fetch  wit:
+ laying these slight sullies   son,
+As 'twere  thing  little soil'd '  working, Mark ,
+Your party  converse,    sound,
+Having ever seen   prenominate crimes
+ youth  breathe  guilty,  assured
+ closes    this consequence;
+'Good sir,'  ,  'friend,'  'gentleman,'
+According   phrase   addition
+Of man  country.
+
+
+REYNALDO
+
+Very good,  lord.
+
+
+LORD POLONIUS
+
+ then, sir, does  this-- does--  
+about  say? By  mass,   about  say
+something:  did  leave?
+
+
+REYNALDO
+
+At 'closes   consequence,'  'friend  ,'
+ 'gentleman.'
+
+
+LORD POLONIUS
+
+At 'closes   consequence,' ay, marry;
+ closes thus: ' know  gentleman;
+ saw  yesterday,  t' other day,
+ then,  then;  such,  such; ,   say,
+There  ' gaming; there o'ertook 's rouse;
+There falling out  tennis:'  perchance,
+' saw  enter such  house  sale,'
+Videlicet,  brothel,   forth.
+See  ;
+Your bait  falsehood takes this carp  truth:
+ thus    wisdom   reach,
+With windlasses   assays  bias,
+By indirections find directions out:
+ by  former lecture  advice,
+Shall   son.  have , have  not?
+
+
+REYNALDO
+
+ lord,  have.
+
+
+LORD POLONIUS
+
+                  God  wi' ; fare  well.
+
+
+REYNALDO
+
+Good  lord!
+
+
+LORD POLONIUS
+
+Observe  inclination  yourself.
+
+
+REYNALDO
+
+ shall,  lord.
+
+
+LORD POLONIUS
+
+ let  ply  music.
+
+
+REYNALDO
+
+Well,  lord.
+
+
+LORD POLONIUS
+
+Farewell!
+Exit REYNALDO
+Enter OPHELIA
+How , Ophelia! 's  matter?
+
+
+OPHELIA
+
+O,  lord,  lord,  have been  affrighted!
+
+
+LORD POLONIUS
+
+With , '  name  God?
+
+
+OPHELIA
+
+ lord,    sewing   closet,
+Lord Hamlet,   doublet  unbraced;
+ hat upon  head;  stockings foul'd,
+Ungarter'd,  down-gyved   ancle;
+Pale   shirt;  knees knocking each other;
+   look  piteous  purport
+As   had been loosed out  hell
+ speak  horrors,-- comes before .
+
+
+LORD POLONIUS
+
+Mad  thy love?
+
+
+OPHELIA
+
+                   lord,   not know;
+ truly,   fear .
+
+
+LORD POLONIUS
+
+ said ?
+
+
+OPHELIA
+
+ took  by  wrist  held  hard;
+Then goes    length    arm;
+,   other hand thus o'er  brow,
+ falls  such perusal   face
+As   draw . Long stay'd  ;
+At last,  little shaking  mine arm
+ thrice  head thus waving   down,
+ raised  sigh  piteous  profound
+As  did seem  shatter   bulk
+ end  being:  done,  lets  go:
+,   head over  shoulder turn'd,
+ seem'd  find  way without  eyes;
+ out o' doors  went without their helps,
+,   last, bended their light  .
+
+
+LORD POLONIUS
+
+Come, go  :   go seek  king.
+This   very ecstasy  love,
+Whose violent property fordoes itself
+ leads    desperate undertakings
+As oft  any passion under heaven
+That does afflict our natures.   sorry.
+, have  given  any hard words  late?
+
+
+OPHELIA
+
+,  good lord, ,   did command,
+ did repel  fetters  denied
+His access  .
+
+
+LORD POLONIUS
+
+                  That hath made  mad.
+  sorry   better heed  judgment
+ had not quoted :  fear'd  did  trifle,
+ meant  wreck thee; , beshrew  jealousy!
+By heaven,    proper  our age
+ cast beyond ourselves  our opinions
+As   common   younger sort
+ lack discretion. Come, go    king:
+This must  known; which, being kept close, might
+move
+More grief  hide than hate  utter love.
+Exeunt
+
+SCENE II.  room   castle.
+
+Enter KING CLAUDIUS, QUEEN GERTRUDE, ROSENCRANTZ, GUILDENSTERN,  Attendants
+
+
+KING CLAUDIUS
+
+Welcome, dear Rosencrantz  Guildenstern!
+Moreover   much did long  see ,
+ need  have  use  did provoke
+Our hasty sending. Something have  heard
+Of Hamlet's transformation;  call ,
+Sith nor  exterior nor  inward man
+Resembles   .   should ,
+More than  father's death,  thus hath put 
+ much from  understanding  himself,
+ cannot dream :  entreat  both,
+That, being   young days brought   ,
+ sith  neighbour'd   youth  havior,
+That  vouchsafe your rest here  our court
+Some little time:  by your companies
+ draw    pleasures,   gather,
+ much  from occasion   glean,
+Whether aught,  us unknown, afflicts  thus,
+That, open'd, lies within our remedy.
+
+
+QUEEN GERTRUDE
+
+Good gentlemen,  hath much talk'd  ;
+ sure   two men there  not living
+ whom  more adheres.    please 
+ show us  much gentry  good 
+As  expend your time  us awhile,
+  supply  profit  our hope,
+Your visitation shall receive such thanks
+As fits  king's remembrance.
+
+
+ROSENCRANTZ
+
+Both your majesties
+Might, by  sovereign power  have  us,
+Put your dread pleasures more into command
+Than  entreaty.
+
+
+GUILDENSTERN
+
+                    both obey,
+ here give  ourselves,   full bent
+ lay our service freely  your feet,
+  commanded.
+
+
+KING CLAUDIUS
+
+Thanks, Rosencrantz  gentle Guildenstern.
+
+
+QUEEN GERTRUDE
+
+Thanks, Guildenstern  gentle Rosencrantz:
+  beseech  instantly  visit
+ too much changed son. Go, some  ,
+ bring these gentlemen  Hamlet .
+
+
+GUILDENSTERN
+
+Heavens make our presence  our practises
+Pleasant  helpful  !
+
+
+QUEEN GERTRUDE
+
+Ay, amen!
+Exeunt ROSENCRANTZ, GUILDENSTERN,  some Attendants
+Enter POLONIUS
+
+
+LORD POLONIUS
+
+ ambassadors from Norway,  good lord,
+Are joyfully return'd.
+
+
+KING CLAUDIUS
+
+Thou still hast been  father  good news.
+
+
+LORD POLONIUS
+
+Have ,  lord?  assure  good liege,
+ hold  duty,   hold  soul,
+Both   God    gracious king:
+   think,  else this brain  mine
+Hunts not  trail  policy  sure
+As  hath used  ,   have found
+ very cause  Hamlet's lunacy.
+
+
+KING CLAUDIUS
+
+O, speak  ;    long  hear.
+
+
+LORD POLONIUS
+
+Give first admittance   ambassadors;
+ news shall   fruit   great feast.
+
+
+KING CLAUDIUS
+
+Thyself  grace  ,  bring  .
+Exit POLONIUS
+ tells ,  dear Gertrude,  hath found
+ head  source   your son's distemper.
+
+
+QUEEN GERTRUDE
+
+ doubt    other   main;
+His father's death,  our o'erhasty marriage.
+
+
+KING CLAUDIUS
+
+Well,  shall sift .
+Re-enter POLONIUS,  VOLTIMAND  CORNELIUS
+Welcome,  good friends!
+Say, Voltimand,  from our brother Norway?
+
+
+VOLTIMAND
+
+Most fair return  greetings  desires.
+Upon our first,  sent out  suppress
+His nephew's levies; which   appear'd
+   preparation 'gainst  Polack;
+, better look'd into,  truly found
+  against your highness: whereat grieved,
+That   sickness, age  impotence
+ falsely borne  hand, sends out arrests
+On Fortinbras; which ,  brief, obeys;
+Receives rebuke from Norway,   fine
+Makes vow before  uncle never more
+ give  assay  arms against your majesty.
+Whereon old Norway, overcome  joy,
+Gives  three thousand crowns  annual fee,
+  commission  employ  soldiers,
+ levied  before, against  Polack:
+With an entreaty, herein further shown,
+Giving  paper
+That  might please   give quiet pass
+Through your dominions  this enterprise,
+On such regards  safety  allowance
+As therein  set down.
+
+
+KING CLAUDIUS
+
+ likes us well;
+  our more consider'd time well read,
+Answer,  think upon this business.
+Meantime  thank   your well-took labour:
+Go  your rest;  night 'll feast together:
+Most welcome home!
+Exeunt VOLTIMAND  CORNELIUS
+
+
+LORD POLONIUS
+
+                  This business  well ended.
+ liege,  madam,  expostulate
+ majesty should ,  duty ,
+Why day  day, night night,  time  time,
+ nothing   waste night, day  time.
+Therefore, since brevity   soul  wit,
+ tediousness  limbs  outward flourishes,
+   brief: your noble son  mad:
+Mad call  ; ,  define true madness,
+ 't    nothing else  mad?
+ let  go.
+
+
+QUEEN GERTRUDE
+
+                  More matter,  less art.
+
+
+LORD POLONIUS
+
+Madam,  swear  use  art  .
+That   mad, 'tis true: 'tis true 'tis pity;
+ pity 'tis 'tis true:  foolish figure;
+ farewell ,    use  art.
+Mad let us grant , then:   remains
+That  find out  cause  this effect,
+ rather say,  cause  this defect,
+ this effect defective comes by cause:
+Thus  remains,   remainder thus. Perpend.
+ have  daughter--have while   mine--
+Who,   duty  obedience, mark,
+Hath given  this:  gather,  surmise.
+Reads
+'  celestial   soul's idol,  most
+beautified Ophelia,'--
+That's an ill phrase,  vile phrase; 'beautified' 
+ vile phrase:   shall hear. Thus:
+Reads
+'  excellent white bosom, these,  & c.'
+
+
+QUEEN GERTRUDE
+
+Came this from Hamlet  ?
+
+
+LORD POLONIUS
+
+Good madam, stay awhile;    faithful.
+Reads
+'Doubt thou  stars  fire;
+Doubt   sun doth move;
+Doubt truth    liar;
+ never doubt  love.
+'O dear Ophelia,   ill  these numbers;
+ have not art  reckon  groans:  
+ love thee best, O most best, believe . Adieu.
+'Thine evermore most dear lady, whilst
+this machine   , HAMLET.'
+This,  obedience, hath  daughter shown ,
+ more above, hath  solicitings,
+As they fell out by time, by means  place,
+ given  mine ear.
+
+
+KING CLAUDIUS
+
+ how hath 
+Received  love?
+
+
+LORD POLONIUS
+
+                     think  ?
+
+
+KING CLAUDIUS
+
+As   man faithful  honourable.
+
+
+LORD POLONIUS
+
+  fain prove .   might  think,
+  had seen this hot love   wing--
+As  perceived ,  must tell  ,
+Before  daughter told -- might ,
+  dear majesty your queen here, think,
+  had play'd  desk  table-book,
+ given  heart  winking, mute  dumb,
+ look'd upon this love  idle sight;
+ might  think? ,  went round  work,
+  young mistress thus  did bespeak:
+'Lord Hamlet   prince, out  thy star;
+This must not :'  then  precepts gave ,
+That  should lock herself from  resort,
+Admit  messengers, receive  tokens.
+Which done,  took  fruits   advice;
+ , repulsed-- short tale  make--
+Fell into  sadness, then into  fast,
+Thence   watch, thence into  weakness,
+Thence   lightness, , by this declension,
+Into  madness wherein   raves,
+   mourn .
+
+
+KING CLAUDIUS
+
+  think 'tis this?
+
+
+QUEEN GERTRUDE
+
+  , very likely.
+
+
+LORD POLONIUS
+
+Hath there been such  time--'d fain know --
+That  have positively said 'Tis ,'
+  proved otherwise?
+
+
+KING CLAUDIUS
+
+Not   know.
+
+
+LORD POLONIUS
+
+[Pointing   head  shoulder]
+Take this from this,  this  otherwise:
+ circumstances lead ,   find
+ truth  hid, though  were hid indeed
+Within  centre.
+
+
+KING CLAUDIUS
+
+                  How   try  further?
+
+
+LORD POLONIUS
+
+ know, sometimes  walks four hours together
+Here   lobby.
+
+
+QUEEN GERTRUDE
+
+                    does indeed.
+
+
+LORD POLONIUS
+
+At such  time 'll loose  daughter  :
+Be    behind an arras then;
+Mark  encounter:   love  not
+  not from  reason fall'n thereon,
+Let    assistant   state,
+ keep  farm  carters.
+
+
+KING CLAUDIUS
+
+We  try .
+
+
+QUEEN GERTRUDE
+
+, look,  sadly  poor wretch comes reading.
+
+
+LORD POLONIUS
+
+Away,   beseech , both away:
+'ll board  presently.
+Exeunt KING CLAUDIUS, QUEEN GERTRUDE,  Attendants
+Enter HAMLET, reading
+O, give  leave:
+How does  good Lord Hamlet?
+
+
+HAMLET
+
+Well, God--mercy.
+
+
+LORD POLONIUS
+
+  know ,  lord?
+
+
+HAMLET
+
+Excellent well;    fishmonger.
+
+
+LORD POLONIUS
+
+Not ,  lord.
+
+
+HAMLET
+
+Then    were  honest  man.
+
+
+LORD POLONIUS
+
+Honest,  lord!
+
+
+HAMLET
+
+Ay, sir;   honest,  this world goes,   
+one man picked out  ten thousand.
+
+
+LORD POLONIUS
+
+That's very true,  lord.
+
+
+HAMLET
+
+   sun breed maggots   dead dog, being 
+god kissing carrion,--Have   daughter?
+
+
+LORD POLONIUS
+
+ have,  lord.
+
+
+HAMLET
+
+Let  not walk '  sun: conception  
+blessing:  not  your daughter  conceive.
+Friend, look  't.
+
+
+LORD POLONIUS
+
+[Aside]  How say  by ? Still harping  
+daughter: yet  knew  not  first;  said 
+  fishmonger:   far gone, far gone: 
+truly   youth  suffered much extremity 
+love; very near this. 'll speak   again.
+   read,  lord?
+
+
+HAMLET
+
+Words, words, words.
+
+
+LORD POLONIUS
+
+   matter,  lord?
+
+
+HAMLET
+
+Between who?
+
+
+LORD POLONIUS
+
+ mean,  matter   read,  lord.
+
+
+HAMLET
+
+Slanders, sir:   satirical rogue says here
+ old men have grey beards,  their faces 
+wrinkled, their eyes purging thick amber 
+plum-tree gum   they have  plentiful lack 
+wit, together  most weak hams:  which, sir,
+though  most powerfully  potently believe, yet
+ hold  not honesty  have  thus set down, 
+yourself, sir, should  old   ,  like  crab
+ could go backward.
+
+
+LORD POLONIUS
+
+[Aside]  Though this  madness, yet there  method
+ 't.   walk out   air,  lord?
+
+
+HAMLET
+
+Into  grave.
+
+
+LORD POLONIUS
+
+Indeed,   out o'  air.
+Aside
+How pregnant sometimes  replies !  happiness
+ often madness hits , which reason  sanity
+could not  prosperously  delivered .  
+leave ,  suddenly contrive  means 
+meeting between    daughter.-- honourable
+lord,   most humbly take  leave  .
+
+
+HAMLET
+
+ cannot, sir, take from  any thing   
+more willingly part withal: except  life, except
+ life, except  life.
+
+
+LORD POLONIUS
+
+Fare  well,  lord.
+
+
+HAMLET
+
+These tedious old fools!
+Enter ROSENCRANTZ  GUILDENSTERN
+
+
+LORD POLONIUS
+
+ go  seek  Lord Hamlet; there  .
+
+
+ROSENCRANTZ
+
+[ POLONIUS]  God save , sir!
+Exit POLONIUS
+
+
+GUILDENSTERN
+
+ honoured lord!
+
+
+ROSENCRANTZ
+
+ most dear lord!
+
+
+HAMLET
+
+ excellent good friends! How dost thou,
+Guildenstern? Ah, Rosencrantz! Good lads, how  ye both?
+
+
+ROSENCRANTZ
+
+As  indifferent children   earth.
+
+
+GUILDENSTERN
+
+Happy,     not over-happy;
+On fortune's cap   not  very button.
+
+
+HAMLET
+
+Nor  soles   shoe?
+
+
+ROSENCRANTZ
+
+Neither,  lord.
+
+
+HAMLET
+
+Then  live about  waist,    middle 
+ favours?
+
+
+GUILDENSTERN
+
+'Faith,  privates .
+
+
+HAMLET
+
+  secret parts  fortune? O, most true; 
+  strumpet. 's  news?
+
+
+ROSENCRANTZ
+
+None,  lord,    world's grown honest.
+
+
+HAMLET
+
+Then  doomsday near:  your news  not true.
+Let  question more  particular:  have ,
+ good friends, deserved   hands  fortune,
+  sends   prison hither?
+
+
+GUILDENSTERN
+
+Prison,  lord!
+
+
+HAMLET
+
+Denmark's  prison.
+
+
+ROSENCRANTZ
+
+Then   world one.
+
+
+HAMLET
+
+ goodly one;  which there  many confines,
+wards  dungeons, Denmark being one o'  worst.
+
+
+ROSENCRANTZ
+
+We think not ,  lord.
+
+
+HAMLET
+
+Why, then, 'tis none  ;  there  nothing
+either good  bad,  thinking makes  :  
+   prison.
+
+
+ROSENCRANTZ
+
+Why then, your ambition makes  one; 'tis too
+narrow  your mind.
+
+
+HAMLET
+
+O God,  could  bounded   nut shell  count
+myself  king  infinite space, were  not  
+have bad dreams.
+
+
+GUILDENSTERN
+
+Which dreams indeed  ambition,   very
+substance   ambitious  merely  shadow   dream.
+
+
+HAMLET
+
+ dream itself    shadow.
+
+
+ROSENCRANTZ
+
+Truly,   hold ambition   airy  light 
+quality      shadow's shadow.
+
+
+HAMLET
+
+Then  our beggars bodies,  our monarchs 
+outstretched heroes  beggars' shadows. Shall 
+  court? , by  fay,  cannot reason.
+
+
+ROSENCRANTZ
+
+GUILDENSTERN
+
+We'll wait upon .
+
+
+HAMLET
+
+ such matter:   not sort    rest
+  servants, ,  speak   like an honest
+man,   most dreadfully attended. ,  
+beaten way  friendship,  make   Elsinore?
+
+
+ROSENCRANTZ
+
+ visit ,  lord;  other occasion.
+
+
+HAMLET
+
+Beggar   ,   even poor  thanks;  
+thank :  sure, dear friends,  thanks 
+too dear  halfpenny.   not sent ?  
+your own inclining?    free visitation? Come,
+deal justly  : come, come; nay, speak.
+
+
+GUILDENSTERN
+
+ should  say,  lord?
+
+
+HAMLET
+
+Why, any thing,    purpose.  were sent
+;  there   kind  confession  your looks
+which your modesties have not craft enough  colour:
+ know  good king  queen have sent  .
+
+
+ROSENCRANTZ
+
+  end,  lord?
+
+
+HAMLET
+
+That  must teach .  let  conjure , by
+ rights  our fellowship, by  consonancy 
+our youth, by  obligation  our ever-preserved
+love,  by  more dear  better proposer could
+charge  withal,  even  direct  ,
+whether  were sent ,  ?
+
+
+ROSENCRANTZ
+
+[Aside  GUILDENSTERN]   say ?
+
+
+HAMLET
+
+[Aside]  Nay, then,  have an eye  .-- 
+love , hold not off.
+
+
+GUILDENSTERN
+
+ lord,  were sent .
+
+
+HAMLET
+
+  tell  why;  shall  anticipation
+prevent your discovery,  your secrecy   king
+ queen moult  feather.  have  late--
+wherefore  know not--lost   mirth, forgone 
+custom  exercises;  indeed  goes  heavily
+  disposition  this goodly frame, 
+earth, seems    sterile promontory, this most
+excellent canopy,  air, look , this brave
+o'erhanging firmament, this majestical roof fretted
+ golden fire, why,  appears  other thing 
+ than  foul  pestilent congregation  vapours.
+  piece  work   man! how noble  reason!
+how infinite  faculty!  form  moving how
+express  admirable!  action how like an angel!
+ apprehension how like  god!  beauty  
+world!  paragon  animals!  yet,  ,
+  this quintessence  dust? man delights not
+: , nor woman neither, though by your smiling
+ seem  say .
+
+
+ROSENCRANTZ
+
+ lord, there   such stuff   thoughts.
+
+
+HAMLET
+
+Why did  laugh then,   said 'man delights not '?
+
+
+ROSENCRANTZ
+
+ think,  lord,   delight not  man, 
+lenten entertainment  players shall receive from
+:  coted    way;  hither  they
+coming,  offer  service.
+
+
+HAMLET
+
+  plays  king shall  welcome;  majesty
+shall have tribute  ;  adventurous knight
+shall use  foil  target;  lover shall not
+sigh gratis;  humourous man shall end  part
+ peace;  clown shall make  laugh whose
+lungs  tickled o'  sere;   lady shall
+say  mind freely,   blank verse shall halt
+'t.  players  they?
+
+
+ROSENCRANTZ
+
+Even   were wont  take delight , 
+tragedians   city.
+
+
+HAMLET
+
+How chances  they travel? their residence, both
+ reputation  profit,  better both ways.
+
+
+ROSENCRANTZ
+
+ think their inhibition comes by  means  
+late innovation.
+
+
+HAMLET
+
+ they hold  same estimation they did   
+  city?  they  followed?
+
+
+ROSENCRANTZ
+
+, indeed,  they not.
+
+
+HAMLET
+
+How comes ?  they grow rusty?
+
+
+ROSENCRANTZ
+
+Nay, their endeavour keeps   wonted pace: 
+there , sir, an aery  children, little eyases,
+ cry out   top  question,   most
+tyrannically clapped 't: these   
+fashion,   berattle  common stages-- they
+call -- many wearing rapiers  afraid 
+goose-quills  dare scarce come thither.
+
+
+HAMLET
+
+,  they children? who maintains 'em? how 
+they escoted?  they pursue  quality 
+longer than they can sing?  they not say
+afterwards,  they should grow themselves  common
+players--   most like,  their means  
+better--their writers   wrong,  make 
+exclaim against their own succession?
+
+
+ROSENCRANTZ
+
+'Faith, there has been much    both sides; 
+ nation holds   sin  tarre  
+controversy: there ,   while,  money bid
+ argument, unless  poet   player went 
+cuffs   question.
+
+
+HAMLET
+
+'t possible?
+
+
+GUILDENSTERN
+
+O, there has been much throwing about  brains.
+
+
+HAMLET
+
+  boys carry  away?
+
+
+ROSENCRANTZ
+
+Ay,  they ,  lord; Hercules   load too.
+
+
+HAMLET
+
+  not very strange;  mine uncle  king 
+Denmark,     make mows   while
+ father lived, give twenty, forty, fifty, an
+hundred ducats -piece   picture  little.
+'Sblood, there  something  this more than
+natural,  philosophy could find  out.
+Flourish  trumpets within
+
+
+GUILDENSTERN
+
+There   players.
+
+
+HAMLET
+
+Gentlemen,   welcome  Elsinore. Your hands,
+come then:  appurtenance  welcome  fashion
+ ceremony: let  comply    this garb,
+lest  extent   players, which,  tell ,
+must show fairly outward, should more appear like
+entertainment than yours.   welcome:  
+uncle-father  aunt-mother  deceived.
+
+
+GUILDENSTERN
+
+ ,  dear lord?
+
+
+HAMLET
+
+   mad north-north-west:   wind 
+southerly  know  hawk from  handsaw.
+Enter POLONIUS
+
+
+LORD POLONIUS
+
+Well   , gentlemen!
+
+
+HAMLET
+
+Hark , Guildenstern;   too:  each ear 
+hearer:  great baby  see there  not yet
+out   swaddling-clouts.
+
+
+ROSENCRANTZ
+
+Happily 's  second time come  ;  they
+say an old man  twice  child.
+
+
+HAMLET
+
+  prophesy  comes  tell    players;
+mark .  say right, sir: o' Monday morning;
+'twas  indeed.
+
+
+LORD POLONIUS
+
+ lord,  have news  tell .
+
+
+HAMLET
+
+ lord,  have news  tell .
+ Roscius  an actor  Rome,--
+
+
+LORD POLONIUS
+
+ actors  come hither,  lord.
+
+
+HAMLET
+
+Buz, buz!
+
+
+LORD POLONIUS
+
+Upon mine honour,--
+
+
+HAMLET
+
+Then came each actor   ass,--
+
+
+LORD POLONIUS
+
+ best actors   world, either  tragedy,
+comedy, history, pastoral, pastoral-comical,
+historical-pastoral, tragical-historical, tragical-
+comical-historical-pastoral, scene individable, 
+poem unlimited: Seneca cannot  too heavy, nor
+Plautus too light.   law  writ  
+liberty, these   only men.
+
+
+HAMLET
+
+O Jephthah, judge  Israel,   treasure hadst thou!
+
+
+LORD POLONIUS
+
+  treasure had ,  lord?
+
+
+HAMLET
+
+Why,
+'One fair daughter   more,
+ which  loved passing well.'
+
+
+LORD POLONIUS
+
+[Aside]  Still   daughter.
+
+
+HAMLET
+
+Am  not '  right, old Jephthah?
+
+
+LORD POLONIUS
+
+  call  Jephthah,  lord,  have  daughter
+  love passing well.
+
+
+HAMLET
+
+Nay,  follows not.
+
+
+LORD POLONIUS
+
+ follows, then,  lord?
+
+
+HAMLET
+
+Why,
+'As by lot, God wot,'
+ then,  know,
+' came  pass,  most like  ,'--
+ first row   pious chanson  show 
+more;  look,   abridgement comes.
+Enter four  five Players
+  welcome, masters; welcome, .   glad
+ see thee well. Welcome, good friends. O,  old
+friend! thy face  valenced since  saw thee last:
+comest thou  beard   Denmark? ,  young
+lady  mistress! By'r lady, your ladyship 
+nearer  heaven than   saw  last, by 
+altitude   chopine. Pray God, your voice, like
+apiece  uncurrent gold,  not cracked within 
+ring. Masters,    welcome. We'll e'en
+'t like French falconers, fly  any thing  see:
+'ll have  speech straight: come, give us  taste
+ your quality; come,  passionate speech.
+
+
+First Player
+
+ speech,  lord?
+
+
+HAMLET
+
+ heard thee speak   speech once,   
+never acted; ,   , not above once;  
+play,  remember, pleased not  million; 'twas
+caviare   general:   --  received
+,  others, whose judgments  such matters
+cried   top  mine--an excellent play, well
+digested   scenes, set down   much
+modesty  cunning.  remember, one said there
+were  sallets   lines  make  matter
+savoury, nor  matter   phrase  might
+indict  author  affectation;  called  an
+honest method,  wholesome  sweet,  by very
+much more handsome than fine. One speech   
+chiefly loved: 'twas Aeneas' tale  Dido; 
+thereabout   especially,   speaks 
+Priam's slaughter:   live  your memory, begin
+ this line: let  see, let  see--
+' rugged Pyrrhus, like  Hyrcanian beast,'--
+  not :-- begins  Pyrrhus:--
+' rugged Pyrrhus,  whose sable arms,
+Black   purpose, did  night resemble
+  lay couched   ominous horse,
+Hath  this dread  black complexion smear'd
+With heraldry more dismal; head  foot
+   total gules; horridly trick'd
+With blood  fathers, mothers, daughters, sons,
+Baked  impasted   parching streets,
+That lend  tyrannous  damned light
+ their lord's murder: roasted  wrath  fire,
+ thus o'er-sized  coagulate gore,
+With eyes like carbuncles,  hellish Pyrrhus
+Old grandsire Priam seeks.'
+, proceed .
+
+
+LORD POLONIUS
+
+'Fore God,  lord, well spoken,  good accent 
+good discretion.
+
+
+First Player
+
+'Anon  finds 
+Striking too short  Greeks;  antique sword,
+Rebellious   arm, lies   falls,
+Repugnant  command: unequal match'd,
+Pyrrhus  Priam drives;  rage strikes wide;
+   whiff  wind   fell sword
+ unnerved father falls. Then senseless Ilium,
+Seeming  feel this blow,  flaming top
+Stoops   base,    hideous crash
+Takes prisoner Pyrrhus' ear: , lo!  sword,
+Which  declining   milky head
+Of reverend Priam, seem'd '  air  stick:
+,   painted tyrant, Pyrrhus stood,
+ like  neutral     matter,
+Did nothing.
+,   often see, against some storm,
+ silence   heavens,  rack stand still,
+ bold winds speechless   orb below
+As hush  death, anon  dreadful thunder
+Doth rend  region, , after Pyrrhus' pause,
+Aroused vengeance sets  new -work;
+ never did  Cyclops' hammers fall
+On Mars's armour forged  proof eterne
+With less remorse than Pyrrhus' bleeding sword
+ falls  Priam.
+Out, out, thou strumpet, Fortune!   gods,
+ general synod 'take away  power;
+Break   spokes  fellies from  wheel,
+ bowl  round nave down  hill  heaven,
+As low    fiends!'
+
+
+LORD POLONIUS
+
+This  too long.
+
+
+HAMLET
+
+ shall   barber's,  your beard. Prithee,
+say : 's   jig   tale  bawdry,  
+sleeps: say : come  Hecuba.
+
+
+First Player
+
+' who, O, who had seen  mobled queen--'
+
+
+HAMLET
+
+' mobled queen?'
+
+
+LORD POLONIUS
+
+That's good; 'mobled queen'  good.
+
+
+First Player
+
+'Run barefoot   down, threatening  flames
+With bisson rheum;  clout upon  head
+ late  diadem stood,    robe,
+About  lank   o'er-teemed loins,
+ blanket,   alarm  fear caught ;
+Who this had seen,  tongue  venom steep'd,
+'Gainst Fortune's state  treason have
+pronounced:
+   gods themselves did see  then
+  saw Pyrrhus make malicious sport
+ mincing   sword  husband's limbs,
+ instant burst  clamour   made,
+Unless things mortal move  not  ,
+ have made milch  burning eyes  heaven,
+ passion   gods.'
+
+
+LORD POLONIUS
+
+Look, whether  has not turned  colour  has
+tears 's eyes. Pray ,  more.
+
+
+HAMLET
+
+'Tis well: 'll have thee speak out  rest soon.
+Good  lord,   see  players well
+bestowed?   hear, let   well used; 
+they   abstract  brief chronicles  
+time: after your death  were better have  bad
+epitaph than their ill report while  live.
+
+
+LORD POLONIUS
+
+ lord,   use  according  their desert.
+
+
+HAMLET
+
+God's bodykins, man, much better: use every man
+after  desert,  who should 'scape whipping?
+Use  after your own honour  dignity:  less
+they deserve,  more merit   your bounty.
+Take  .
+
+
+LORD POLONIUS
+
+Come, sirs.
+
+
+HAMLET
+
+Follow , friends: 'll hear  play -morrow.
+Exit POLONIUS    Players   First
+Dost thou hear , old friend; can  play 
+Murder  Gonzago?
+
+
+First Player
+
+Ay,  lord.
+
+
+HAMLET
+
+We'll ha't -morrow night.  could,   need,
+study  speech  some dozen  sixteen lines, which
+  set down  insert 't, could  not?
+
+
+First Player
+
+Ay,  lord.
+
+
+HAMLET
+
+Very well. Follow  lord;  look  mock 
+not.
+Exit First Player
+ good friends, 'll leave  till night:  
+welcome  Elsinore.
+
+
+ROSENCRANTZ
+
+Good  lord!
+
+
+HAMLET
+
+Ay, , God  wi' ye;
+Exeunt ROSENCRANTZ  GUILDENSTERN
+   alone.
+O,   rogue  peasant slave  !
+  not monstrous  this player here,
+   fiction,   dream  passion,
+Could force  soul    own conceit
+That from  working   visage wann'd,
+Tears   eyes, distraction 's aspect,
+ broken voice,   whole function suiting
+With forms   conceit?    nothing!
+ Hecuba!
+'s Hecuba  ,    Hecuba,
+That  should weep  ?    ,
+Had   motive   cue  passion
+That  have?   drown  stage  tears
+ cleave  general ear  horrid speech,
+Make mad  guilty  appal  free,
+Confound  ignorant,  amaze indeed
+ very faculties  eyes  ears. Yet ,
+ dull  muddy-mettled rascal, peak,
+Like John--dreams, unpregnant   cause,
+ can say nothing; , not   king,
+Upon whose property  most dear life
+ damn'd defeat  made. Am   coward?
+Who calls  villain? breaks  pate across?
+Plucks off  beard,  blows    face?
+Tweaks  by  nose? gives   lie '  throat,
+As deep    lungs? who does  this?
+Ha!
+'Swounds,  should take :   cannot 
+   pigeon-liver'd  lack gall
+ make oppression bitter,  ere this
+ should have fatted   region kites
+With this slave's offal: bloody, bawdy villain!
+Remorseless, treacherous, lecherous, kindless villain!
+O, vengeance!
+Why,  an ass  ! This  most brave,
+That ,  son   dear father murder'd,
+Prompted   revenge by heaven  hell,
+Must, like  whore, unpack  heart  words,
+ fall -cursing, like  very drab,
+ scullion!
+Fie upon't! foh! About,  brain!  have heard
+That guilty creatures sitting   play
+Have by  very cunning   scene
+Been struck    soul  presently
+They have proclaim'd their malefactions;
+ murder, though  have  tongue,  speak
+With most miraculous organ. 'll have these players
+Play something like  murder   father
+Before mine uncle: 'll observe  looks;
+'ll tent    quick:    blench,
+ know  course.  spirit   have seen
+May   devil:   devil hath power
+ assume  pleasing shape; yea,  perhaps
+Out   weakness   melancholy,
+As   very potent  such spirits,
+Abuses   damn : 'll have grounds
+More relative than this:  play 's  thing
+Wherein 'll catch  conscience   king.
+Exit
+
+ACT III
+SCENE .  room   castle.
+
+Enter KING CLAUDIUS, QUEEN GERTRUDE, POLONIUS, OPHELIA, ROSENCRANTZ,  GUILDENSTERN
+
+
+KING CLAUDIUS
+
+ can , by  drift  circumstance,
+Get from  why  puts  this confusion,
+Grating  harshly   days  quiet
+With turbulent  dangerous lunacy?
+
+
+ROSENCRANTZ
+
+ does confess  feels himself distracted;
+ from  cause   by  means speak.
+
+
+GUILDENSTERN
+
+Nor   find  forward   sounded,
+,   crafty madness, keeps aloof,
+   bring    some confession
+Of  true state.
+
+
+QUEEN GERTRUDE
+
+                  Did  receive  well?
+
+
+ROSENCRANTZ
+
+Most like  gentleman.
+
+
+GUILDENSTERN
+
+  much forcing   disposition.
+
+
+ROSENCRANTZ
+
+Niggard  question; ,  our demands,
+Most free   reply.
+
+
+QUEEN GERTRUDE
+
+Did  assay ?
+ any pastime?
+
+
+ROSENCRANTZ
+
+Madam,   fell out,  certain players
+We o'er-raught   way:  these  told ;
+ there did seem    kind  joy
+ hear  : they  about  court,
+,   think, they have already order
+This night  play before .
+
+
+LORD POLONIUS
+
+'Tis most true:
+  beseech'd   entreat your majesties
+ hear  see  matter.
+
+
+KING CLAUDIUS
+
+With   heart;   doth much content 
+ hear   inclined.
+Good gentlemen, give   further edge,
+ drive  purpose   these delights.
+
+
+ROSENCRANTZ
+
+We shall,  lord.
+Exeunt ROSENCRANTZ  GUILDENSTERN
+
+
+KING CLAUDIUS
+
+                  Sweet Gertrude, leave us too;
+  have closely sent  Hamlet hither,
+That ,  'twere by accident,  here
+Affront Ophelia:
+ father  myself, lawful espials,
+  bestow ourselves , seeing, unseen,
+We   their encounter frankly judge,
+ gather by ,    behaved,
+ 't   affliction   love  
+That thus  suffers .
+
+
+QUEEN GERTRUDE
+
+ shall obey .
+  your part, Ophelia,   wish
+That your good beauties   happy cause
+Of Hamlet's wildness:  shall  hope your virtues
+ bring    wonted way again,
+ both your honours.
+
+
+OPHELIA
+
+Madam,  wish  .
+Exit QUEEN GERTRUDE
+
+
+LORD POLONIUS
+
+Ophelia, walk  here. Gracious,  please ,
+We  bestow ourselves.
+ OPHELIA
+Read  this book;
+That show  such an exercise  colour
+Your loneliness. We  oft  blame  this,--
+'Tis too much proved--  devotion's visage
+ pious action   sugar o'er
+ devil himself.
+
+
+KING CLAUDIUS
+
+[Aside]          O, 'tis too true!
+How smart  lash  speech doth give  conscience!
+ harlot's cheek, beautied  plastering art,
+ not more ugly   thing  helps 
+Than   deed   most painted word:
+O heavy burthen!
+
+
+LORD POLONIUS
+
+ hear  coming: let's withdraw,  lord.
+Exeunt KING CLAUDIUS  POLONIUS
+Enter HAMLET
+
+
+HAMLET
+
+ ,  not  ,    question,
+Whether 'tis nobler   mind  suffer
+ slings  arrows  outrageous fortune,
+  take arms against  sea  troubles,
+ by opposing end ?  die:  sleep;
+ more;  by  sleep  say  end
+ heart-ache   thousand natural shocks
+That flesh  heir , 'tis  consummation
+Devoutly   wish'd.  die,  sleep;
+ sleep: perchance  dream: ay, there's  rub;
+   sleep  death  dreams  come
+  have shuffled off this mortal coil,
+Must give us pause: there's  respect
+That makes calamity   long life;
+ who  bear  whips  scorns  time,
+ oppressor's wrong,  proud man's contumely,
+ pangs  despised love,  law's delay,
+ insolence  office   spurns
+That patient merit   unworthy takes,
+  himself might  quietus make
+With  bare bodkin? who  fardels bear,
+ grunt  sweat under  weary life,
+   dread  something after death,
+ undiscover'd country from whose bourn
+ traveller returns, puzzles  
+ makes us rather bear  ills  have
+Than fly  others   know not ?
+Thus conscience does make cowards  us ;
+ thus  native hue  resolution
+ sicklied o'er   pale cast  thought,
+ enterprises  great pith  moment
+With this regard their currents turn awry,
+ lose  name  action.--Soft  !
+ fair Ophelia! Nymph,  thy orisons
+Be   sins remember'd.
+
+
+OPHELIA
+
+Good  lord,
+How does your honour  this many  day?
+
+
+HAMLET
+
+ humbly thank ; well, well, well.
+
+
+OPHELIA
+
+ lord,  have remembrances  yours,
+That  have longed long  re-deliver;
+ pray ,  receive .
+
+
+HAMLET
+
+, not ;
+ never gave  aught.
+
+
+OPHELIA
+
+ honour'd lord,  know right well  did;
+,  , words   sweet breath composed
+As made  things more rich: their perfume lost,
+Take these again;    noble mind
+Rich gifts wax poor  givers prove unkind.
+There,  lord.
+
+
+HAMLET
+
+Ha, ha!   honest?
+
+
+OPHELIA
+
+ lord?
+
+
+HAMLET
+
+Are  fair?
+
+
+OPHELIA
+
+ means your lordship?
+
+
+HAMLET
+
+That    honest  fair, your honesty should
+admit  discourse  your beauty.
+
+
+OPHELIA
+
+Could beauty,  lord, have better commerce than
+ honesty?
+
+
+HAMLET
+
+Ay, truly;   power  beauty  sooner
+transform honesty from      bawd than 
+force  honesty can translate beauty into 
+likeness: this  sometime  paradox,   
+time gives  proof.  did love  once.
+
+
+OPHELIA
+
+Indeed,  lord,  made  believe .
+
+
+HAMLET
+
+ should not have believed ;  virtue cannot
+ inoculate our old stock   shall relish 
+:  loved  not.
+
+
+OPHELIA
+
+   more deceived.
+
+
+HAMLET
+
+Get thee   nunnery: why wouldst thou  
+breeder  sinners?   myself indifferent honest;
+ yet  could accuse   such things  
+were better  mother had not borne :   very
+proud, revengeful, ambitious,  more offences 
+ beck than  have thoughts  put  ,
+imagination  give  shape,  time  act 
+.  should such fellows    crawling
+between earth  heaven? We  arrant knaves,
+; believe none  us. Go thy ways   nunnery.
+'s your father?
+
+
+OPHELIA
+
+At home,  lord.
+
+
+HAMLET
+
+Let  doors  shut upon ,    play 
+fool    's own house. Farewell.
+
+
+OPHELIA
+
+O, help ,  sweet heavens!
+
+
+HAMLET
+
+ thou dost marry, 'll give thee this plague 
+thy dowry:  thou  chaste  ice,  pure 
+snow, thou shalt not escape calumny. Get thee  
+nunnery, go: farewell. ,  thou wilt needs
+marry, marry  fool;  wise men know well enough
+ monsters  make  .   nunnery, go,
+ quickly too. Farewell.
+
+
+OPHELIA
+
+O heavenly powers, restore !
+
+
+HAMLET
+
+ have heard  your paintings too, well enough; God
+has given  one face,   make yourselves
+another:  jig,  amble,   lisp, 
+nick-name God's creatures,  make your wantonness
+your ignorance. Go , 'll  more 't;  hath
+made  mad.  say,   have  more marriages:
+   married already,   one, shall
+live;  rest shall keep  they .  
+nunnery, go.
+Exit
+
+
+OPHELIA
+
+O,   noble mind  here o'erthrown!
+ courtier's, soldier's, scholar's, eye, tongue, sword;
+ expectancy  rose   fair state,
+ glass  fashion   mould  form,
+ observed   observers, quite, quite down!
+ ,  ladies most deject  wretched,
+That suck'd  honey   music vows,
+ see  noble  most sovereign reason,
+Like sweet bells jangled, out  tune  harsh;
+That unmatch'd form  feature  blown youth
+Blasted  ecstasy: O, woe  ,
+ have seen   have seen, see   see!
+Re-enter KING CLAUDIUS  POLONIUS
+
+
+KING CLAUDIUS
+
+Love!  affections  not  way tend;
+Nor   spake, though  lack'd form  little,
+ not like madness. There's something   soul,
+O'er which  melancholy sits  brood;
+   doubt  hatch   disclose
+  some danger: which   prevent,
+ have  quick determination
+Thus set  down:  shall  speed  England,
+  demand  our neglected tribute
+Haply  seas  countries different
+With variable objects shall expel
+This something-settled matter   heart,
+Whereon  brains still beating puts  thus
+From fashion  himself.  think  't?
+
+
+LORD POLONIUS
+
+ shall  well:  yet   believe
+ origin  commencement   grief
+Sprung from neglected love. How , Ophelia!
+ need not tell us  Lord Hamlet said;
+We heard  .  lord,    please;
+,   hold  fit, after  play
+Let  queen mother  alone entreat 
+ show  grief: let   round  ;
+ 'll  placed,  please ,   ear
+Of  their conference.   find  not,
+ England send ,  confine  
+Your wisdom best shall think.
+
+
+KING CLAUDIUS
+
+ shall  :
+Madness  great ones must not unwatch'd go.
+Exeunt
+
+SCENE II.  hall   castle.
+
+Enter HAMLET  Players
+
+
+HAMLET
+
+Speak  speech,  pray ,   pronounced  
+, trippingly   tongue:    mouth ,
+ many  your players ,  had  lief 
+town-crier spoke  lines. Nor  not saw  air
+too much  your hand, thus,  use  gently;
+   very torrent, tempest, ,    say,
+ whirlwind  passion,  must acquire  beget
+ temperance   give  smoothness. O, 
+offends    soul  hear  robustious
+periwig-pated fellow tear  passion  tatters, 
+very rags,  split  ears   groundlings, who
+  most part  capable  nothing 
+inexplicable dumbshows  noise:   have such
+ fellow whipped  o'erdoing Termagant; 
+out-herods Herod: pray , avoid .
+
+
+First Player
+
+ warrant your honour.
+
+
+HAMLET
+
+Be not too tame neither,  let your own discretion
+ your tutor: suit  action   word, 
+word   action;  this special o'erstep not
+ modesty  nature:  any thing  overdone 
+from  purpose  playing, whose end, both  
+first  ,   ,  hold,  'twere, 
+mirror   nature;  show virtue  own feature,
+scorn  own image,   very age  body 
+ time  form  pressure.  this overdone,
+ come tardy off, though  make  unskilful
+laugh, cannot  make  judicious grieve; 
+censure   which one must  your allowance
+o'erweigh  whole theatre  others. O, there 
+players   have seen play,  heard others
+praise,   highly, not  speak  profanely,
+, neither having  accent  Christians nor
+ gait  Christian, pagan, nor man, have 
+strutted  bellowed   have thought some 
+nature's journeymen had made men  not made 
+well, they imitated humanity  abominably.
+
+
+First Player
+
+ hope  have reformed  indifferently  us,
+sir.
+
+
+HAMLET
+
+O, reform  altogether.  let   play
+your clowns speak  more than  set down  ;
+ there      themselves laugh, 
+set  some quantity  barren spectators  laugh
+too; though,   mean time, some necessary
+question   play  then   considered:
+'s villanous,  shows  most pitiful ambition
+  fool  uses . Go, make  ready.
+Exeunt Players
+Enter POLONIUS, ROSENCRANTZ,  GUILDENSTERN
+How ,  lord!    king hear this piece  work?
+
+
+LORD POLONIUS
+
+  queen too,   presently.
+
+
+HAMLET
+
+Bid  players make haste.
+Exit POLONIUS
+  two help  hasten ?
+
+
+ROSENCRANTZ
+
+GUILDENSTERN
+
+We ,  lord.
+Exeunt ROSENCRANTZ  GUILDENSTERN
+
+
+HAMLET
+
+ ho! Horatio!
+Enter HORATIO
+
+
+HORATIO
+
+Here, sweet lord,  your service.
+
+
+HAMLET
+
+Horatio, thou art e'en  just  man
+As e'er  conversation coped withal.
+
+
+HORATIO
+
+O,  dear lord,--
+
+
+HAMLET
+
+                  Nay,  not think  flatter;
+  advancement   hope from thee
+That  revenue hast  thy good spirits,
+ feed  clothe thee? Why should  poor  flatter'd?
+, let  candied tongue lick absurd pomp,
+ crook  pregnant hinges   knee
+ thrift  follow fawning. Dost thou hear?
+Since  dear soul  mistress   choice
+ could  men distinguish,  election
+Hath seal'd thee  herself;  thou hast been
+As one,  suffering ,  suffers nothing,
+ man  fortune's buffets  rewards
+Hast ta'en  equal thanks:  blest  
+Whose blood  judgment   well commingled,
+That they  not  pipe  fortune's finger
+ sound  stop  please. Give   man
+That  not passion's slave,    wear 
+  heart's core, ay,   heart  heart,
+As   thee.--Something too much  this.--
+There   play -night before  king;
+One scene   comes near  circumstance
+Which  have told thee   father's death:
+ prithee,  thou seest  act afoot,
+Even   very comment  thy soul
+Observe mine uncle:   occulted guilt
+ not itself unkennel  one speech,
+   damned ghost   have seen,
+  imaginations   foul
+As Vulcan's stithy. Give  heedful note;
+  mine eyes  rivet   face,
+ after   both our judgments join
+ censure   seeming.
+
+
+HORATIO
+
+Well,  lord:
+  steal aught  whilst this play  playing,
+ 'scape detecting,   pay  theft.
+
+
+HAMLET
+
+They  coming   play;  must  idle:
+Get   place.
+Danish march.  flourish. Enter KING CLAUDIUS,  QUEEN GERTRUDE, POLONIUS, OPHELIA, ROSENCRANTZ, GUILDENSTERN,  others
+
+
+KING CLAUDIUS
+
+How fares our cousin Hamlet?
+
+
+HAMLET
+
+Excellent, ' faith;   chameleon's dish:  eat
+ air, promise-crammed:  cannot feed capons .
+
+
+KING CLAUDIUS
+
+ have nothing  this answer, Hamlet; these words
+ not mine.
+
+
+HAMLET
+
+, nor mine .
+ POLONIUS
+ lord,  played once '  university,  say?
+
+
+LORD POLONIUS
+
+That did ,  lord;   accounted  good actor.
+
+
+HAMLET
+
+ did  enact?
+
+
+LORD POLONIUS
+
+ did enact Julius Caesar:   killed ' 
+Capitol; Brutus killed .
+
+
+HAMLET
+
+   brute part    kill  capital  calf
+there. Be  players ready?
+
+
+ROSENCRANTZ
+
+Ay,  lord; they stay upon your patience.
+
+
+QUEEN GERTRUDE
+
+Come hither,  dear Hamlet, sit by .
+
+
+HAMLET
+
+, good mother, here's metal more attractive.
+
+
+LORD POLONIUS
+
+[ KING CLAUDIUS]  O, ho!   mark ?
+
+
+HAMLET
+
+Lady, shall  lie  your lap?
+Lying down  OPHELIA's feet
+
+
+OPHELIA
+
+,  lord.
+
+
+HAMLET
+
+ mean,  head upon your lap?
+
+
+OPHELIA
+
+Ay,  lord.
+
+
+HAMLET
+
+  think  meant country matters?
+
+
+OPHELIA
+
+ think nothing,  lord.
+
+
+HAMLET
+
+That's  fair thought  lie between maids' legs.
+
+
+OPHELIA
+
+ ,  lord?
+
+
+HAMLET
+
+Nothing.
+
+
+OPHELIA
+
+  merry,  lord.
+
+
+HAMLET
+
+Who, ?
+
+
+OPHELIA
+
+Ay,  lord.
+
+
+HAMLET
+
+O God, your only jig-maker.  should  man 
+  merry? , look , how cheerfully 
+mother looks,   father died within these two hours.
+
+
+OPHELIA
+
+Nay, 'tis twice two months,  lord.
+
+
+HAMLET
+
+ long? Nay then, let  devil wear black, 
+'ll have  suit  sables. O heavens! die two
+months ago,  not forgotten yet? Then there's
+hope  great man's memory  outlive  life half
+ year: , by'r lady,  must build churches,
+then;  else shall  suffer not thinking , 
+ hobby-horse, whose epitaph  ', O, , O,
+ hobby-horse  forgot.'
+Hautboys play.  dumb-show enters
+Enter  King   Queen very lovingly;  Queen  embracing ,   .  kneels,  makes  show  protestation unto .  takes  ,   declines  head upon  neck: lays  down  upon  bank  flowers: , seeing  asleep,  leaves . Anon comes   fellow, takes off   crown, kisses ,  pours poison   King's  ears,  exit.  Queen returns; finds  King  dead,  makes passionate action.  Poisoner,   some two  three Mutes, comes  again,  seeming  lament  .  dead body   carried away.  Poisoner wooes  Queen   gifts:  seems loath  unwilling awhile,    end accepts  love
+Exeunt
+
+
+OPHELIA
+
+ means this,  lord?
+
+
+HAMLET
+
+Marry, this  miching mallecho;  means mischief.
+
+
+OPHELIA
+
+Belike this show imports  argument   play.
+Enter Prologue
+
+
+HAMLET
+
+We shall know by this fellow:  players cannot
+keep counsel; they'll tell .
+
+
+OPHELIA
+
+  tell us  this show meant?
+
+
+HAMLET
+
+Ay,  any show  'll show :  not 
+ashamed  show, 'll not shame  tell    means.
+
+
+OPHELIA
+
+  naught,   naught: 'll mark  play.
+
+
+Prologue
+
+      us,   our tragedy,
+Here stooping  your clemency,
+We beg your hearing patiently.
+Exit
+
+
+HAMLET
+
+ this  prologue,   posy   ring?
+
+
+OPHELIA
+
+'Tis brief,  lord.
+
+
+HAMLET
+
+As woman's love.
+Enter two Players, King  Queen
+
+
+Player King
+
+   Full thirty times hath Phoebus' cart gone round
+Neptune's salt wash  Tellus' orbed ground,
+ thirty dozen moons  borrow'd sheen
+About  world have times twelve thirties been,
+Since love our hearts  Hymen did our hands
+Unite commutual  most sacred bands.
+
+
+Player Queen
+
+    many journeys   sun  moon
+Make us again count o'er ere love  done!
+, woe  ,    sick  late,
+ far from cheer  from your former state,
+That  distrust . Yet, though  distrust,
+Discomfort ,  lord,  nothing must:
+ women's fear  love holds quantity;
+ neither aught,   extremity.
+,   love , proof hath made  know;
+   love  sized,  fear  :
+ love  great,  littlest doubts  fear;
+ little fears grow great, great love grows there.
+
+
+Player King
+
+'Faith,  must leave thee, love,  shortly too;
+ operant powers their functions leave  :
+ thou shalt live  this fair world behind,
+Honour'd, beloved;  haply one  kind
+ husband shalt thou--
+
+
+Player Queen
+
+O, confound  rest!
+Such love must needs  treason   breast:
+ second husband let   accurst!
+None wed  second  who kill'd  first.
+
+
+HAMLET
+
+[Aside]  Wormwood, wormwood.
+
+
+Player Queen
+
+    instances  second marriage move
+Are base respects  thrift,  none  love:
+ second time  kill  husband dead,
+ second husband kisses   bed.
+
+
+Player King
+
+     believe  think    speak;
+    determine oft  break.
+Purpose    slave  memory,
+Of violent birth,  poor validity;
+Which , like fruit unripe, sticks   tree;
+ fall, unshaken,  they mellow .
+Most necessary 'tis   forget
+ pay ourselves   ourselves  debt:
+  ourselves  passion  propose,
+ passion ending, doth  purpose lose.
+ violence  either grief  joy
+Their own enactures  themselves destroy:
+ joy most revels, grief doth most lament;
+Grief joys, joy grieves,  slender accident.
+This world  not  aye, nor 'tis not strange
+That even our loves should  our fortunes change;
+ 'tis  question left us yet  prove,
+Whether love lead fortune,  else fortune love.
+ great man down,  mark  favourite flies;
+ poor advanced makes friends  enemies.
+ hitherto doth love  fortune tend;
+ who not needs shall never lack  friend,
+ who  want  hollow friend doth try,
+Directly seasons   enemy.
+, orderly  end   begun,
+Our wills  fates   contrary run
+That our devices still  overthrown;
+Our thoughts  ours, their ends none  our own:
+ think thou wilt  second husband wed;
+ die thy thoughts  thy first lord  dead.
+
+
+Player Queen
+
+   Nor earth   give food, nor heaven light!
+Sport  repose lock from  day  night!
+ desperation turn  trust  hope!
+An anchor's cheer  prison   scope!
+Each opposite  blanks  face  joy
+Meet    have well   destroy!
+Both here  hence pursue  lasting strife,
+, once  widow, ever   wife!
+
+
+HAMLET
+
+  should break  !
+
+
+Player King
+
+'Tis deeply sworn. Sweet, leave  here awhile;
+ spirits grow dull,  fain   beguile
+ tedious day  sleep.
+Sleeps
+
+
+Player Queen
+
+Sleep rock thy brain,
+ never come mischance between us twain!
+Exit
+
+
+HAMLET
+
+Madam, how like  this play?
+
+
+QUEEN GERTRUDE
+
+ lady protests too much, methinks.
+
+
+HAMLET
+
+O,  'll keep  word.
+
+
+KING CLAUDIUS
+
+Have  heard  argument?  there  offence  't?
+
+
+HAMLET
+
+, , they   jest, poison  jest;  offence
+'  world.
+
+
+KING CLAUDIUS
+
+   call  play?
+
+
+HAMLET
+
+ Mouse-trap. Marry, how? Tropically. This play
+  image   murder done  Vienna: Gonzago 
+ duke's name;  wife, Baptista:  shall see
+anon; 'tis  knavish piece  work:   o'
+? your majesty    have free souls, 
+touches us not: let  galled jade wince, our
+withers  unwrung.
+Enter LUCIANUS
+This  one Lucianus, nephew   king.
+
+
+OPHELIA
+
+   good   chorus,  lord.
+
+
+HAMLET
+
+ could interpret between   your love,  
+could see  puppets dallying.
+
+
+OPHELIA
+
+  keen,  lord,   keen.
+
+
+HAMLET
+
+  cost   groaning  take off  edge.
+
+
+OPHELIA
+
+Still better,  worse.
+
+
+HAMLET
+
+  must take your husbands. Begin, murderer;
+pox, leave thy damnable faces,  begin. Come:
+' croaking raven doth bellow  revenge.'
+
+
+LUCIANUS
+
+   Thoughts black, hands apt, drugs fit,  time agreeing;
+Confederate season, else  creature seeing;
+Thou mixture rank,  midnight weeds collected,
+With Hecate's ban thrice blasted, thrice infected,
+Thy natural magic  dire property,
+On wholesome life usurp immediately.
+Pours  poison into  sleeper's ears
+
+
+HAMLET
+
+ poisons  '  garden 's estate. His
+name's Gonzago:  story  extant,  writ 
+choice Italian:  shall see anon how  murderer
+gets  love  Gonzago's wife.
+
+
+OPHELIA
+
+ king rises.
+
+
+HAMLET
+
+, frighted  false fire!
+
+
+QUEEN GERTRUDE
+
+How fares  lord?
+
+
+LORD POLONIUS
+
+Give o'er  play.
+
+
+KING CLAUDIUS
+
+Give  some light: away!
+
+
+
+
+Lights, lights, lights!
+Exeunt   HAMLET  HORATIO
+
+
+HAMLET
+
+     Why, let  stricken deer go weep,
+ hart ungalled play;
+ some must watch, while some must sleep:
+ runs  world away.
+ not this, sir,   forest  feathers-- 
+ rest   fortunes turn Turk  -- two
+Provincial roses   razed shoes, get  
+fellowship   cry  players, sir?
+
+
+HORATIO
+
+Half  share.
+
+
+HAMLET
+
+ whole one, .
+ thou dost know, O Damon dear,
+This realm dismantled 
+Of Jove himself;   reigns here
+ very, very--pajock.
+
+
+HORATIO
+
+ might have rhymed.
+
+
+HAMLET
+
+O good Horatio, 'll take  ghost's word  
+thousand pound. Didst perceive?
+
+
+HORATIO
+
+Very well,  lord.
+
+
+HAMLET
+
+Upon  talk   poisoning?
+
+
+HORATIO
+
+ did very well note .
+
+
+HAMLET
+
+Ah, ha! Come, some music! come,  recorders!
+   king like not  comedy,
+Why then, belike,  likes  not, perdy.
+Come, some music!
+Re-enter ROSENCRANTZ  GUILDENSTERN
+
+
+GUILDENSTERN
+
+Good  lord, vouchsafe   word  .
+
+
+HAMLET
+
+Sir,  whole history.
+
+
+GUILDENSTERN
+
+ king, sir,--
+
+
+HAMLET
+
+Ay, sir,   ?
+
+
+GUILDENSTERN
+
+   retirement marvellous distempered.
+
+
+HAMLET
+
+With drink, sir?
+
+
+GUILDENSTERN
+
+,  lord, rather  choler.
+
+
+HAMLET
+
+Your wisdom should show itself more richer 
+signify this   doctor; ,    put 
+  purgation  perhaps plunge  into far
+more choler.
+
+
+GUILDENSTERN
+
+Good  lord, put your discourse into some frame 
+start not  wildly from  affair.
+
+
+HAMLET
+
+  tame, sir: pronounce.
+
+
+GUILDENSTERN
+
+ queen, your mother,  most great affliction 
+spirit, hath sent   .
+
+
+HAMLET
+
+  welcome.
+
+
+GUILDENSTERN
+
+Nay, good  lord, this courtesy  not   right
+breed.   shall please   make  
+wholesome answer,    your mother's
+commandment:  not, your pardon   return
+shall   end   business.
+
+
+HAMLET
+
+Sir,  cannot.
+
+
+GUILDENSTERN
+
+,  lord?
+
+
+HAMLET
+
+Make   wholesome answer;  wit's diseased: ,
+sir, such answer   can make,  shall command;
+, rather,   say,  mother: therefore 
+more,    matter:  mother,  say,--
+
+
+ROSENCRANTZ
+
+Then thus  says; your behavior hath struck 
+into amazement  admiration.
+
+
+HAMLET
+
+O wonderful son,  can  astonish  mother! 
+ there  sequel   heels  this mother's
+admiration? Impart.
+
+
+ROSENCRANTZ
+
+ desires  speak     closet, ere 
+go  bed.
+
+
+HAMLET
+
+We shall obey, were  ten times our mother. Have
+ any further trade  us?
+
+
+ROSENCRANTZ
+
+ lord,  once did love .
+
+
+HAMLET
+
+   still, by these pickers  stealers.
+
+
+ROSENCRANTZ
+
+Good  lord,   your cause  distemper? 
+, surely, bar  door upon your own liberty, 
+ deny your griefs  your friend.
+
+
+HAMLET
+
+Sir,  lack advancement.
+
+
+ROSENCRANTZ
+
+How can  ,   have  voice   king
+himself  your succession  Denmark?
+
+
+HAMLET
+
+Ay,  sir, 'While  grass grows,'-- proverb
+ something musty.
+Re-enter Players  recorders
+O,  recorders! let  see one.  withdraw 
+:--why   go about  recover  wind  ,
+    drive  into  toil?
+
+
+GUILDENSTERN
+
+O,  lord,   duty  too bold,  love  too
+unmannerly.
+
+
+HAMLET
+
+  not well understand .   play upon
+this pipe?
+
+
+GUILDENSTERN
+
+ lord,  cannot.
+
+
+HAMLET
+
+ pray .
+
+
+GUILDENSTERN
+
+Believe ,  cannot.
+
+
+HAMLET
+
+  beseech .
+
+
+GUILDENSTERN
+
+ know  touch  ,  lord.
+
+
+HAMLET
+
+'Tis  easy  lying: govern these ventages 
+your lingers  thumb, give  breath  your
+mouth,    discourse most eloquent music.
+Look , these   stops.
+
+
+GUILDENSTERN
+
+ these cannot  command  any utterance 
+harmony;  have not  skill.
+
+
+HAMLET
+
+Why, look  , how unworthy  thing  make 
+!   play upon ;   seem  know
+ stops;   pluck out  heart  
+mystery;   sound  from  lowest note 
+ top   compass:  there  much music,
+excellent voice,  this little organ; yet cannot
+ make  speak. 'Sblood,   think  
+easier   played  than  pipe? Call  
+instrument  , though  can fret , yet 
+cannot play upon .
+Enter POLONIUS
+God bless , sir!
+
+
+LORD POLONIUS
+
+ lord,  queen  speak  , 
+presently.
+
+
+HAMLET
+
+  see yonder cloud 's almost  shape   camel?
+
+
+LORD POLONIUS
+
+By  mass,  'tis like  camel, indeed.
+
+
+HAMLET
+
+Methinks   like  weasel.
+
+
+LORD POLONIUS
+
+  backed like  weasel.
+
+
+HAMLET
+
+ like  whale?
+
+
+LORD POLONIUS
+
+Very like  whale.
+
+
+HAMLET
+
+Then   come   mother by  by. They fool
+   top   bent.   come by  by.
+
+
+LORD POLONIUS
+
+  say .
+
+
+HAMLET
+
+By  by  easily said.
+Exit POLONIUS
+Leave , friends.
+Exeunt   HAMLET
+Tis   very witching time  night,
+ churchyards yawn  hell itself breathes out
+Contagion  this world:  could  drink hot blood,
+  such bitter business   day
+ quake  look . Soft!    mother.
+O heart, lose not thy nature; let not ever
+ soul  Nero enter this firm bosom:
+Let   cruel, not unnatural:
+  speak daggers  ,  use none;
+ tongue  soul  this  hypocrites;
+How   words soever   shent,
+ give  seals never,  soul, consent!
+Exit
+
+SCENE III.  room   castle.
+
+Enter KING CLAUDIUS, ROSENCRANTZ,  GUILDENSTERN
+
+
+KING CLAUDIUS
+
+ like  not, nor stands  safe  us
+ let  madness range. Therefore prepare ;
+ your commission  forthwith dispatch,
+   England shall along  :
+ terms  our estate  not endure
+Hazard  dangerous  doth hourly grow
+Out   lunacies.
+
+
+GUILDENSTERN
+
+We  ourselves provide:
+Most holy  religious fear  
+ keep  many many bodies safe
+That live  feed upon your majesty.
+
+
+ROSENCRANTZ
+
+ single  peculiar life  bound,
+With   strength  armour   mind,
+ keep itself from noyance;  much more
+That spirit upon whose weal depend  rest
+ lives  many.  cease  majesty
+Dies not alone; , like  gulf, doth draw
+'s near   :    massy wheel,
+Fix'd   summit   highest mount,
+ whose huge spokes ten thousand lesser things
+Are mortised  adjoin'd; which,   falls,
+Each small annexment, petty consequence,
+Attends  boisterous ruin. Never alone
+Did  king sigh,    general groan.
+
+
+KING CLAUDIUS
+
+Arm ,  pray ,  this speedy voyage;
+   fetters put upon this fear,
+Which  goes too free-footed.
+
+
+ROSENCRANTZ
+
+GUILDENSTERN
+
+We  haste us.
+Exeunt ROSENCRANTZ  GUILDENSTERN
+Enter POLONIUS
+
+
+LORD POLONIUS
+
+ lord, 's going   mother's closet:
+Behind  arras 'll convey myself,
+ hear  process;  warrant 'll tax  home:
+,   said,  wisely   said,
+'Tis meet  some more audience than  mother,
+Since nature makes  partial, should o'erhear
+ speech,  vantage. Fare  well,  liege:
+'ll call upon  ere  go  bed,
+ tell    know.
+
+
+KING CLAUDIUS
+
+Thanks, dear  lord.
+Exit POLONIUS
+O,  offence  rank  smells  heaven;
+ hath  primal eldest curse upon't,
+ brother's murder. Pray can  not,
+Though inclination   sharp  :
+ stronger guilt defeats  strong intent;
+, like  man  double business bound,
+ stand  pause   shall first begin,
+ both neglect.   this cursed hand
+ thicker than itself  brother's blood,
+ there not rain enough   sweet heavens
+ wash  white  snow? Whereto serves mercy
+  confront  visage  offence?
+ 's  prayer  this two-fold force,
+  forestalled ere  come  fall,
+ pardon'd being down? Then 'll look ;
+ fault  past. , O,  form  prayer
+Can serve  turn? 'Forgive   foul murder'?
+That cannot ; since   still possess'd
+Of  effects  which  did  murder,
+ crown, mine own ambition   queen.
+May one  pardon'd  retain  offence?
+  corrupted currents  this world
+Offence's gilded hand  shove by justice,
+ oft 'tis seen  wicked prize itself
+Buys out  law:  'tis not  above;
+There   shuffling, there  action lies
+  true nature;   ourselves compell'd,
+Even   teeth  forehead  our faults,
+ give  evidence.  then?  rests?
+Try  repentance can:  can  not?
+Yet  can   one can not repent?
+O wretched state! O bosom black  death!
+O limed soul, , struggling   free,
+Art more engaged! Help, angels! Make assay!
+Bow, stubborn knees; , heart  strings  steel,
+Be soft  sinews   newborn babe!
+   well.
+Retires  kneels
+Enter HAMLET
+
+
+HAMLET
+
+ might    pat,    praying;
+  'll 't.    goes  heaven;
+    revenged. That   scann'd:
+ villain kills  father;   ,
+,  sole son,  this same villain send
+ heaven.
+O, this  hire  salary, not revenge.
+ took  father grossly, full  bread;
+With   crimes broad blown,  flush  May;
+ how  audit stands who knows save heaven?
+  our circumstance  course  thought,
+'Tis heavy  :    then revenged,
+ take    purging   soul,
+   fit  season'd   passage?
+!
+Up, sword;  know thou  more horrid hent:
+   drunk asleep,    rage,
+   incestuous pleasure   bed;
+At gaming, swearing,  about some act
+That has  relish  salvation 't;
+Then trip ,   heels  kick  heaven,
+   soul    damn'd  black
+As hell, whereto  goes.  mother stays:
+This physic  prolongs thy sickly days.
+Exit
+
+
+KING CLAUDIUS
+
+[Rising]   words fly ,  thoughts remain below:
+Words without thoughts never  heaven go.
+Exit
+
+SCENE IV.  Queen's closet.
+
+Enter QUEEN GERTRUDE  POLONIUS
+
+
+LORD POLONIUS
+
+  come straight. Look  lay home  :
+Tell   pranks have been too broad  bear ,
+  your grace hath screen'd  stood between
+Much heat  . 'll sconce  even here.
+Pray ,  round  .
+
+
+HAMLET
+
+[Within]  Mother, mother, mother!
+
+
+QUEEN GERTRUDE
+
+'ll warrant ,
+Fear  not: withdraw,  hear  coming.
+POLONIUS hides behind  arras
+Enter HAMLET
+
+
+HAMLET
+
+, mother, 's  matter?
+
+
+QUEEN GERTRUDE
+
+Hamlet, thou hast thy father much offended.
+
+
+HAMLET
+
+Mother,  have  father much offended.
+
+
+QUEEN GERTRUDE
+
+Come, come,  answer  an idle tongue.
+
+
+HAMLET
+
+Go, go,  question   wicked tongue.
+
+
+QUEEN GERTRUDE
+
+Why, how , Hamlet!
+
+
+HAMLET
+
+'s  matter ?
+
+
+QUEEN GERTRUDE
+
+Have  forgot ?
+
+
+HAMLET
+
+, by  rood, not :
+   queen, your husband's brother's wife;
+--  were not !--   mother.
+
+
+QUEEN GERTRUDE
+
+Nay, then, 'll set     can speak.
+
+
+HAMLET
+
+Come, come,  sit  down;  shall not budge;
+ go not till  set    glass
+   see  inmost part  .
+
+
+QUEEN GERTRUDE
+
+ wilt thou ? thou wilt not murder ?
+Help, help, ho!
+
+
+LORD POLONIUS
+
+[Behind]  , ho! help, help, help!
+
+
+HAMLET
+
+[Drawing]  How !  rat? Dead,   ducat, dead!
+Makes  pass through  arras
+
+
+LORD POLONIUS
+
+[Behind]  O,   slain!
+Falls  dies
+
+
+QUEEN GERTRUDE
+
+O ,  hast thou done?
+
+
+HAMLET
+
+Nay,  know not:
+   king?
+
+
+QUEEN GERTRUDE
+
+O,   rash  bloody deed  this!
+
+
+HAMLET
+
+ bloody deed! almost  bad, good mother,
+As kill  king,  marry   brother.
+
+
+QUEEN GERTRUDE
+
+As kill  king!
+
+
+HAMLET
+
+                  Ay, lady, 'twas  word.
+Lifts   array  discovers POLONIUS
+Thou wretched, rash, intruding fool, farewell!
+ took thee  thy better: take thy fortune;
+Thou find'st   too busy  some danger.
+Leave wringing  your hands: peace! sit  down,
+ let  wring your heart;    shall,
+   made  penetrable stuff,
+ damned custom have not brass'd  
+That   proof  bulwark against sense.
+
+
+QUEEN GERTRUDE
+
+ have  done,  thou darest wag thy tongue
+ noise  rude against ?
+
+
+HAMLET
+
+Such an act
+That blurs  grace  blush  modesty,
+Calls virtue hypocrite, takes off  rose
+From  fair forehead  an innocent love
+ sets  blister there, makes marriage-vows
+As false  dicers' oaths: O, such  deed
+As from  body  contraction plucks
+ very soul,  sweet religion makes
+ rhapsody  words: heaven's face doth glow:
+Yea, this solidity  compound mass,
+With tristful visage,  against  doom,
+ thought-sick   act.
+
+
+QUEEN GERTRUDE
+
+Ay ,  act,
+That roars  loud,  thunders   index?
+
+
+HAMLET
+
+Look here, upon this picture,   this,
+ counterfeit presentment  two brothers.
+See,   grace  seated  this brow;
+Hyperion's curls;  front  Jove himself;
+An eye like Mars,  threaten  command;
+ station like  herald Mercury
+New-lighted   heaven-kissing hill;
+ combination   form indeed,
+ every god did seem  set  seal,
+ give  world assurance   man:
+This  your husband. Look  ,  follows:
+Here  your husband; like  mildew'd ear,
+Blasting  wholesome brother. Have  eyes?
+Could   this fair mountain leave  feed,
+ batten  this moor? Ha! have  eyes?
+ cannot call  love;   your age
+ hey-day   blood  tame, 's humble,
+ waits upon  judgment:   judgment
+ step from this  this? Sense, sure,  have,
+Else could  not have motion;  sure,  sense
+ apoplex'd;  madness  not err,
+Nor sense  ecstasy  ne'er  thrall'd
+  reserved some quantity  choice,
+ serve  such  difference.  devil 't
+That thus hath cozen'd   hoodman-blind?
+Eyes without feeling, feeling without sight,
+Ears without hands  eyes, smelling sans ,
+   sickly part  one true sense
+Could not  mope.
+O shame!   thy blush? Rebellious hell,
+ thou canst mutine   matron's bones,
+ flaming youth let virtue   wax,
+ melt   own fire: proclaim  shame
+  compulsive ardour gives  charge,
+Since frost itself  actively doth burn
+ reason panders .
+
+
+QUEEN GERTRUDE
+
+O Hamlet, speak  more:
+Thou turn'st mine eyes into  very soul;
+ there  see such black  grained spots
+As  not leave their tinct.
+
+
+HAMLET
+
+Nay,   live
+  rank sweat  an enseamed bed,
+Stew'd  corruption, honeying  making love
+Over  nasty sty,--
+
+
+QUEEN GERTRUDE
+
+O, speak    more;
+These words, like daggers, enter  mine ears;
+ more, sweet Hamlet!
+
+
+HAMLET
+
+ murderer   villain;
+ slave   not twentieth part  tithe
+Of your precedent lord;  vice  kings;
+ cutpurse   empire   rule,
+That from  shelf  precious diadem stole,
+ put    pocket!
+
+
+QUEEN GERTRUDE
+
+ more!
+
+
+HAMLET
+
+ king  shreds  patches,--
+Enter Ghost
+Save ,  hover o'er   your wings,
+ heavenly guards!   your gracious figure?
+
+
+QUEEN GERTRUDE
+
+Alas, 's mad!
+
+
+HAMLET
+
+  not come your tardy son  chide,
+That, lapsed  time  passion, lets go by
+ important acting  your dread command? O, say!
+
+
+Ghost
+
+ not forget: this visitation
+   whet thy almost blunted purpose.
+, look, amazement  thy mother sits:
+O, step between    fighting soul:
+Conceit  weakest bodies strongest works:
+Speak  , Hamlet.
+
+
+HAMLET
+
+How    , lady?
+
+
+QUEEN GERTRUDE
+
+Alas, how 't  ,
+That   bend your eye  vacancy
+   incorporal air  hold discourse?
+Forth  your eyes your spirits wildly peep;
+,   sleeping soldiers   alarm,
+Your bedded hair, like life  excrements,
+Starts ,  stands  end. O gentle son,
+Upon  heat  flame  thy distemper
+Sprinkle cool patience. Whereon   look?
+
+
+HAMLET
+
+On ,  ! Look , how pale  glares!
+His form  cause conjoin'd, preaching  stones,
+ make  capable.  not look upon ;
+Lest  this piteous action  convert
+ stern effects: then   have  
+ want true colour; tears perchance  blood.
+
+
+QUEEN GERTRUDE
+
+ whom   speak this?
+
+
+HAMLET
+
+  see nothing there?
+
+
+QUEEN GERTRUDE
+
+Nothing  ; yet     see.
+
+
+HAMLET
+
+Nor did  nothing hear?
+
+
+QUEEN GERTRUDE
+
+, nothing  ourselves.
+
+
+HAMLET
+
+Why, look  there! look, how  steals away!
+ father,   habit   lived!
+Look,   goes, even , out   portal!
+Exit Ghost
+
+
+QUEEN GERTRUDE
+
+This  very coinage  your brain:
+This bodiless creation ecstasy
+ very cunning .
+
+
+HAMLET
+
+Ecstasy!
+ pulse,  yours, doth temperately keep time,
+ makes  healthful music:   not madness
+That  have utter'd: bring    test,
+   matter  re-word; which madness
+ gambol from. Mother,  love  grace,
+Lay not  mattering unction  your soul,
+That not your trespass,   madness speaks:
+   skin  film  ulcerous place,
+Whilst rank corruption, mining  within,
+Infects unseen. Confess yourself  heaven;
+Repent 's past; avoid    come;
+  not spread  compost   weeds,
+ make  ranker. Forgive  this  virtue;
+   fatness  these pursy times
+Virtue itself  vice must pardon beg,
+Yea, curb  woo  leave    good.
+
+
+QUEEN GERTRUDE
+
+O Hamlet, thou hast cleft  heart  twain.
+
+
+HAMLET
+
+O, throw away  worser part  ,
+ live  purer   other half.
+Good night:  go not  mine uncle's bed;
+Assume  virtue,   have  not.
+That monster, custom, who  sense doth eat,
+Of habits devil,  angel yet  this,
+That   use  actions fair  good
+ likewise gives  frock  livery,
+That aptly  put . Refrain -night,
+  shall lend  kind  easiness
+  next abstinence:  next more easy;
+ use almost can change  stamp  nature,
+ either [         ]  devil,  throw  out
+With wondrous potency. Once more, good night:
+    desirous   bless'd,
+'ll blessing beg  .  this same lord,
+Pointing  POLONIUS
+  repent:  heaven hath pleased  ,
+ punish   this  this  ,
+That  must  their scourge  minister.
+  bestow ,   answer well
+ death  gave . , again, good night.
+ must  cruel, only   kind:
+Thus bad begins  worse remains behind.
+One word more, good lady.
+
+
+QUEEN GERTRUDE
+
+ shall  ?
+
+
+HAMLET
+
+Not this, by  means,   bid  :
+Let  bloat king tempt  again  bed;
+Pinch wanton  your cheek; call   mouse;
+ let ,   pair  reechy kisses,
+ paddling  your neck   damn'd fingers,
+Make   ravel  this matter out,
+That  essentially  not  madness,
+ mad  craft. 'Twere good  let  know;
+ who, 's   queen, fair, sober, wise,
+ from  paddock, from  bat,  gib,
+Such dear concernings hide? who   ?
+,  despite  sense  secrecy,
+Unpeg  basket   house's top.
+Let  birds fly, , like  famous ape,
+ try conclusions,   basket creep,
+ break your own neck down.
+
+
+QUEEN GERTRUDE
+
+Be thou assured,  words  made  breath,
+ breath  life,  have  life  breathe
+ thou hast said  .
+
+
+HAMLET
+
+ must  England;  know ?
+
+
+QUEEN GERTRUDE
+
+Alack,
+ had forgot: 'tis  concluded .
+
+
+HAMLET
+
+There's letters seal'd:   two schoolfellows,
+Whom   trust    adders fang'd,
+They bear  mandate; they must sweep  way,
+ marshal   knavery. Let  work;
+ 'tis  sport  have  engineer
+Hoist   own petard:  't shall go hard
+   delve one yard below their mines,
+ blow    moon: O, 'tis most sweet,
+  one line two crafts directly meet.
+This man shall set  packing:
+'ll lug  guts into  neighbour room.
+Mother, good night. Indeed this counsellor
+  most still, most secret  most grave,
+Who   life  foolish prating knave.
+Come, sir,  draw toward an end  .
+Good night, mother.
+Exeunt severally; HAMLET dragging  POLONIUS
+
+ACT IV
+SCENE .  room   castle.
+
+Enter KING CLAUDIUS, QUEEN GERTRUDE, ROSENCRANTZ,  GUILDENSTERN
+
+
+KING CLAUDIUS
+
+There's matter  these sighs, these profound heaves:
+ must translate: 'tis fit  understand .
+  your son?
+
+
+QUEEN GERTRUDE
+
+Bestow this place  us  little while.
+Exeunt ROSENCRANTZ  GUILDENSTERN
+Ah,  good lord,  have  seen -night!
+
+
+KING CLAUDIUS
+
+, Gertrude? How does Hamlet?
+
+
+QUEEN GERTRUDE
+
+Mad   sea  wind,  both contend
+Which   mightier:   lawless fit,
+Behind  arras hearing something stir,
+Whips out  rapier, cries, ' rat,  rat!'
+,  this brainish apprehension, kills
+ unseen good old man.
+
+
+KING CLAUDIUS
+
+O heavy deed!
+ had been   us, had  been there:
+His liberty  full  threats  ;
+  yourself,  us,  every one.
+Alas, how shall this bloody deed  answer'd?
+   laid  us, whose providence
+Should have kept short, restrain'd  out  haunt,
+This mad young man:   much  our love,
+We  not understand   most fit;
+, like  owner   foul disease,
+ keep  from divulging, let  feed
+Even   pith  Life.    gone?
+
+
+QUEEN GERTRUDE
+
+ draw apart  body  hath kill'd:
+O'er whom  very madness, like some ore
+Among  mineral  metals base,
+Shows itself pure;  weeps    done.
+
+
+KING CLAUDIUS
+
+O Gertrude, come away!
+ sun  sooner shall  mountains touch,
+   ship  hence:  this vile deed
+We must,   our majesty  skill,
+Both countenance  excuse. Ho, Guildenstern!
+Re-enter ROSENCRANTZ  GUILDENSTERN
+Friends both, go join   some further aid:
+Hamlet  madness hath Polonius slain,
+ from  mother's closet hath  dragg'd :
+Go seek  out; speak fair,  bring  body
+Into  chapel.  pray , haste  this.
+Exeunt ROSENCRANTZ  GUILDENSTERN
+Come, Gertrude, 'll call  our wisest friends;
+ let  know, both   mean  ,
+ 's untimely done. O, come away!
+ soul  full  discord  dismay.
+Exeunt
+
+SCENE II. Another room   castle.
+
+Enter HAMLET
+
+
+HAMLET
+
+Safely stowed.
+
+
+ROSENCRANTZ:
+
+GUILDENSTERN:
+
+[Within]  Hamlet! Lord Hamlet!
+
+
+HAMLET
+
+ noise? who calls  Hamlet?
+O, here they come.
+Enter ROSENCRANTZ  GUILDENSTERN
+
+
+ROSENCRANTZ
+
+ have  done,  lord,   dead body?
+
+
+HAMLET
+
+Compounded   dust, whereto 'tis kin.
+
+
+ROSENCRANTZ
+
+Tell us  'tis,    take  thence
+ bear    chapel.
+
+
+HAMLET
+
+ not believe .
+
+
+ROSENCRANTZ
+
+Believe ?
+
+
+HAMLET
+
+That  can keep your counsel  not mine own.
+Besides,   demanded   sponge! 
+replication should  made by  son   king?
+
+
+ROSENCRANTZ
+
+Take     sponge,  lord?
+
+
+HAMLET
+
+Ay, sir,  soaks   king's countenance, 
+rewards,  authorities.  such officers  
+king best service   end:  keeps , like
+an ape,   corner   jaw; first mouthed, 
+ last swallowed:   needs   have
+gleaned,    squeezing , , sponge, 
+shall  dry again.
+
+
+ROSENCRANTZ
+
+ understand  not,  lord.
+
+
+HAMLET
+
+  glad  :  knavish speech sleeps  
+foolish ear.
+
+
+ROSENCRANTZ
+
+ lord,  must tell us   body ,  go
+ us   king.
+
+
+HAMLET
+
+ body    king,   king  not 
+ body.  king   thing--
+
+
+GUILDENSTERN
+
+ thing,  lord!
+
+
+HAMLET
+
+Of nothing: bring   . Hide fox,   after.
+Exeunt
+
+SCENE III. Another room   castle.
+
+Enter KING CLAUDIUS, attended
+
+
+KING CLAUDIUS
+
+ have sent  seek ,   find  body.
+How dangerous    this man goes loose!
+Yet must not  put  strong law  :
+'s loved   distracted multitude,
+Who like not  their judgment,  their eyes;
+  tis ,  offender's scourge  weigh'd,
+ never  offence.  bear  smooth  even,
+This sudden sending  away must seem
+Deliberate pause: diseases desperate grown
+By desperate appliance  relieved,
+ not  .
+Enter ROSENCRANTZ
+How !  hath befall'n?
+
+
+ROSENCRANTZ
+
+  dead body  bestow'd,  lord,
+We cannot get from .
+
+
+KING CLAUDIUS
+
+   ?
+
+
+ROSENCRANTZ
+
+Without,  lord; guarded,  know your pleasure.
+
+
+KING CLAUDIUS
+
+Bring  before us.
+
+
+ROSENCRANTZ
+
+Ho, Guildenstern! bring   lord.
+Enter HAMLET  GUILDENSTERN
+
+
+KING CLAUDIUS
+
+, Hamlet, 's Polonius?
+
+
+HAMLET
+
+At supper.
+
+
+KING CLAUDIUS
+
+At supper! ?
+
+
+HAMLET
+
+Not   eats,     eaten:  certain
+convocation  politic worms  e'en  . Your
+worm  your only emperor  diet:  fat 
+creatures else  fat us,   fat ourselves 
+maggots: your fat king  your lean beggar  
+variable service, two dishes,   one table:
+'s  end.
+
+
+KING CLAUDIUS
+
+Alas, alas!
+
+
+HAMLET
+
+ man  fish   worm  hath eat  
+king,  eat   fish  hath fed   worm.
+
+
+KING CLAUDIUS
+
+ dost  mean by this?
+
+
+HAMLET
+
+Nothing   show  how  king  go 
+progress through  guts   beggar.
+
+
+KING CLAUDIUS
+
+  Polonius?
+
+
+HAMLET
+
+ heaven; send hither  see:  your messenger
+find  not there, seek  '  other place
+yourself.  indeed,   find  not within
+this month,  shall nose    go  
+stairs into  lobby.
+
+
+KING CLAUDIUS
+
+Go seek  there.
+ some Attendants
+
+
+HAMLET
+
+  stay till ye come.
+Exeunt Attendants
+
+
+KING CLAUDIUS
+
+Hamlet, this deed,  thine especial safety,--
+Which   tender,   dearly grieve
+  which thou hast done,--must send thee hence
+With fiery quickness: therefore prepare thyself;
+ bark  ready,   wind  help,
+ associates tend,  every thing  bent
+ England.
+
+
+HAMLET
+
+                   England!
+
+
+KING CLAUDIUS
+
+Ay, Hamlet.
+
+
+HAMLET
+
+Good.
+
+
+KING CLAUDIUS
+
+  ,  thou knew'st our purposes.
+
+
+HAMLET
+
+ see  cherub  sees . , come; 
+England! Farewell, dear mother.
+
+
+KING CLAUDIUS
+
+Thy loving father, Hamlet.
+
+
+HAMLET
+
+ mother: father  mother  man  wife; man
+ wife  one flesh;  ,  mother. Come,  England!
+Exit
+
+
+KING CLAUDIUS
+
+Follow   foot; tempt   speed aboard;
+Delay  not; 'll have  hence -night:
+Away!  every thing  seal'd  done
+That else leans   affair: pray , make haste.
+Exeunt ROSENCRANTZ  GUILDENSTERN
+, England,   love thou hold'st  aught--
+As  great power thereof  give thee sense,
+Since yet thy cicatrice looks raw  red
+After  Danish sword,  thy free awe
+Pays homage  us--thou mayst not coldly set
+Our sovereign process; which imports  full,
+By letters congruing   effect,
+ present death  Hamlet.  , England;
+ like  hectic   blood  rages,
+ thou must cure : till  know 'tis done,
+Howe'er  haps,  joys were ne'er begun.
+Exit
+
+SCENE IV.  plain  Denmark.
+
+Enter FORTINBRAS,  Captain,  Soldiers, marching
+
+
+PRINCE FORTINBRAS
+
+Go, captain, from  greet  Danish king;
+Tell  , by  licence, Fortinbras
+Craves  conveyance   promised march
+Over  kingdom.  know  rendezvous.
+   majesty  aught  us,
+We shall express our duty   eye;
+ let  know .
+
+
+Captain
+
+  't,  lord.
+
+
+PRINCE FORTINBRAS
+
+Go softly .
+Exeunt FORTINBRAS  Soldiers
+Enter HAMLET, ROSENCRANTZ, GUILDENSTERN,  others
+
+
+HAMLET
+
+Good sir, whose powers  these?
+
+
+Captain
+
+They   Norway, sir.
+
+
+HAMLET
+
+How purposed, sir,  pray ?
+
+
+Captain
+
+Against some part  Poland.
+
+
+HAMLET
+
+Who commands , sir?
+
+
+Captain
+
+ nephews  old Norway, Fortinbras.
+
+
+HAMLET
+
+Goes  against  main  Poland, sir,
+  some frontier?
+
+
+Captain
+
+Truly  speak,    addition,
+We go  gain  little patch  ground
+That hath    profit   name.
+ pay five ducats, five,   not farm ;
+Nor   yield  Norway   Pole
+ ranker rate, should   sold  fee.
+
+
+HAMLET
+
+Why, then  Polack never  defend .
+
+
+Captain
+
+,   already garrison'd.
+
+
+HAMLET
+
+Two thousand souls  twenty thousand ducats
+ not debate  question  this straw:
+This   imposthume  much wealth  peace,
+That inward breaks,  shows  cause without
+Why  man dies.  humbly thank , sir.
+
+
+Captain
+
+God  wi' , sir.
+Exit
+
+
+ROSENCRANTZ
+
+Wilt please  go,  lord?
+
+
+HAMLET
+
+'ll    straight go  little before.
+Exeunt  except HAMLET
+How  occasions  inform against ,
+ spur  dull revenge!    man,
+  chief good  market   time
+Be   sleep  feed?  beast,  more.
+Sure,   made us  such large discourse,
+Looking before  after, gave us not
+That capability  god-like reason
+ fust  us unused. , whether  
+Bestial oblivion,  some craven scruple
+Of thinking too precisely   event,
+ thought which, quarter'd, hath  one part wisdom
+ ever three parts coward,   not know
+Why yet  live  say 'This thing's  ;'
+Sith  have cause    strength  means
+ 't. Examples gross  earth exhort :
+Witness this army  such mass  charge
+Led by  delicate  tender prince,
+Whose spirit  divine ambition puff'd
+Makes mouths   invisible event,
+Exposing   mortal  unsure
+   fortune, death  danger dare,
+Even  an egg-shell. Rightly   great
+ not  stir without great argument,
+ greatly  find quarrel   straw
+ honour's   stake. How stand  then,
+That have  father kill'd,  mother stain'd,
+Excitements   reason   blood,
+ let  sleep? while,   shame,  see
+ imminent death  twenty thousand men,
+That,   fantasy  trick  fame,
+Go  their graves like beds, fight   plot
+Whereon  numbers cannot try  cause,
+Which  not tomb enough  continent
+ hide  slain? O, from this time forth,
+ thoughts  bloody,   nothing worth!
+Exit
+
+SCENE V. Elsinore.  room   castle.
+
+Enter QUEEN GERTRUDE, HORATIO,   Gentleman
+
+
+QUEEN GERTRUDE
+
+  not speak  .
+
+
+Gentleman
+
+  importunate, indeed distract:
+ mood  needs  pitied.
+
+
+QUEEN GERTRUDE
+
+   have?
+
+
+Gentleman
+
+ speaks much   father; says  hears
+There's tricks '  world;  hems,  beats  heart;
+Spurns enviously  straws; speaks things  doubt,
+That carry  half sense:  speech  nothing,
+Yet  unshaped use   doth move
+ hearers  collection; they aim  ,
+ botch  words  fit  their own thoughts;
+Which,   winks,  nods,  gestures
+yield ,
+Indeed  make one think there might  thought,
+Though nothing sure, yet much unhappily.
+
+
+HORATIO
+
+'Twere good  were spoken ;    strew
+Dangerous conjectures  ill-breeding minds.
+
+
+QUEEN GERTRUDE
+
+Let  come .
+Exit HORATIO
+  sick soul,  sin's true nature ,
+Each toy seems prologue  some great amiss:
+ full  artless jealousy  guilt,
+ spills itself  fearing   spilt.
+Re-enter HORATIO,  OPHELIA
+
+
+OPHELIA
+
+   beauteous majesty  Denmark?
+
+
+QUEEN GERTRUDE
+
+How , Ophelia!
+
+
+OPHELIA
+
+[Sings]
+How should  your true love know
+From another one?
+By  cockle hat  staff,
+  sandal shoon.
+
+
+QUEEN GERTRUDE
+
+Alas, sweet lady,  imports this song?
+
+
+OPHELIA
+
+Say ? nay, pray , mark.
+Sings
+  dead  gone, lady,
+  dead  gone;
+At  head  grass-green turf,
+At  heels  stone.
+
+
+QUEEN GERTRUDE
+
+Nay, , Ophelia,--
+
+
+OPHELIA
+
+Pray , mark.
+Sings
+White  shroud   mountain snow,--
+Enter KING CLAUDIUS
+
+
+QUEEN GERTRUDE
+
+Alas, look here,  lord.
+
+
+OPHELIA
+
+[Sings]
+Larded  sweet flowers
+Which bewept   grave did go
+With true-love showers.
+
+
+KING CLAUDIUS
+
+How  , pretty lady?
+
+
+OPHELIA
+
+Well, God 'ild ! They say  owl   baker's
+daughter. Lord,  know   ,  know not
+   . God   your table!
+
+
+KING CLAUDIUS
+
+Conceit upon  father.
+
+
+OPHELIA
+
+Pray , let's have  words  this;   they
+ask    means, say  this:
+Sings
+-morrow  Saint Valentine's day,
+   morning betime,
+   maid  your window,
+  your Valentine.
+Then   rose,  donn'd  clothes,
+ dupp'd  chamber-door;
+Let   maid,  out  maid
+Never departed more.
+
+
+KING CLAUDIUS
+
+Pretty Ophelia!
+
+
+OPHELIA
+
+Indeed, la, without an oath, 'll make an end 't:
+Sings
+By Gis  by Saint Charity,
+Alack,  fie  shame!
+Young men  't,  they come 't;
+By cock, they   blame.
+Quoth , before  tumbled ,
+ promised   wed.
+   ha' done, by yonder sun,
+An thou hadst not come   bed.
+
+
+KING CLAUDIUS
+
+How long hath  been thus?
+
+
+OPHELIA
+
+ hope    well. We must  patient:  
+cannot choose  weep,  think they should lay 
+'  cold ground.  brother shall know  :
+   thank   your good counsel. Come, 
+coach! Good night, ladies; good night, sweet ladies;
+good night, good night.
+Exit
+
+
+KING CLAUDIUS
+
+Follow  close; give  good watch,
+ pray .
+Exit HORATIO
+O, this   poison  deep grief;  springs
+ from  father's death. O Gertrude, Gertrude,
+ sorrows come, they come not single spies
+  battalions. First,  father slain:
+Next, your son gone;   most violent author
+Of  own just remove:  people muddied,
+Thick  unwholesome  their thoughts  whispers,
+ good Polonius' death;   have done  greenly,
+ hugger-mugger  inter : poor Ophelia
+Divided from herself   fair judgment,
+Without  which   pictures,  mere beasts:
+Last,   much containing   these,
+ brother   secret come from France;
+Feeds   wonder, keeps himself  clouds,
+ wants not buzzers  infect  ear
+With pestilent speeches   father's death;
+Wherein necessity,  matter beggar'd,
+ nothing stick our person  arraign
+ ear  ear. O  dear Gertrude, this,
+Like   murdering-piece,  many places
+Gives  superfluous death.
+ noise within
+
+
+QUEEN GERTRUDE
+
+Alack,  noise  this?
+
+
+KING CLAUDIUS
+
+   Switzers? Let  guard  door.
+Enter another Gentleman
+   matter?
+
+
+Gentleman
+
+Save yourself,  lord:
+ ocean, overpeering   list,
+Eats not  flats  more impetuous haste
+Than young Laertes,   riotous head,
+O'erbears your officers.  rabble call  lord;
+,   world were    begin,
+Antiquity forgot, custom not known,
+ ratifiers  props  every word,
+They cry 'Choose : Laertes shall  king:'
+Caps, hands,  tongues, applaud    clouds:
+'Laertes shall  king, Laertes king!'
+
+
+QUEEN GERTRUDE
+
+How cheerfully   false trail they cry!
+O, this  counter,  false Danish dogs!
+
+
+KING CLAUDIUS
+
+ doors  broke.
+Noise within
+Enter LAERTES, armed; Danes following
+
+
+LAERTES
+
+  this king? Sirs, stand   without.
+
+
+Danes
+
+, let's come .
+
+
+LAERTES
+
+                   pray , give  leave.
+
+
+Danes
+
+We ,  .
+They retire without  door
+
+
+LAERTES
+
+ thank : keep  door. O thou vile king,
+Give   father!
+
+
+QUEEN GERTRUDE
+
+                  Calmly, good Laertes.
+
+
+LAERTES
+
+That drop  blood 's calm proclaims  bastard,
+Cries cuckold   father, brands  harlot
+Even here, between  chaste unsmirched brow
+Of  true mother.
+
+
+KING CLAUDIUS
+
+                     cause, Laertes,
+That thy rebellion looks  giant-like?
+Let  go, Gertrude;  not fear our person:
+There's such divinity doth hedge  king,
+That treason can  peep    ,
+Acts little   . Tell , Laertes,
+Why thou art thus incensed. Let  go, Gertrude.
+Speak, man.
+
+
+LAERTES
+
+   father?
+
+
+KING CLAUDIUS
+
+Dead.
+
+
+QUEEN GERTRUDE
+
+ not by .
+
+
+KING CLAUDIUS
+
+Let  demand  fill.
+
+
+LAERTES
+
+How came  dead? 'll not  juggled :
+ hell, allegiance! vows,   blackest devil!
+Conscience  grace,   profoundest pit!
+ dare damnation.  this point  stand,
+That both  worlds  give  negligence,
+Let come  comes; only 'll  revenged
+Most thoroughly   father.
+
+
+KING CLAUDIUS
+
+Who shall stay ?
+
+
+LAERTES
+
+ , not   world:
+   means, 'll husband   well,
+They shall go far  little.
+
+
+KING CLAUDIUS
+
+Good Laertes,
+  desire  know  certainty
+Of your dear father's death, 't writ  your revenge,
+That, swoopstake,   draw both friend  foe,
+Winner  loser?
+
+
+LAERTES
+
+None   enemies.
+
+
+KING CLAUDIUS
+
+  know  then?
+
+
+LAERTES
+
+  good friends thus wide 'll ope  arms;
+ like  kind life-rendering pelican,
+Repast    blood.
+
+
+KING CLAUDIUS
+
+Why,   speak
+Like  good child   true gentleman.
+That   guiltless  your father's death,
+  most sensible  grief  ,
+ shall  level  your judgment pierce
+As day does  your eye.
+
+
+Danes
+
+[Within]                Let  come .
+
+
+LAERTES
+
+How !  noise  ?
+Re-enter OPHELIA
+O heat, dry   brains! tears seven times salt,
+Burn out  sense  virtue  mine eye!
+By heaven, thy madness shall  paid by weight,
+Till our scale turn  beam. O rose  May!
+Dear maid, kind sister, sweet Ophelia!
+O heavens! 't possible,  young maid's wits
+Should   moral  an old man's life?
+Nature  fine  love,   'tis fine,
+ sends some precious instance  itself
+After  thing  loves.
+
+
+OPHELIA
+
+[Sings]
+They bore  barefaced   bier;
+Hey non nonny, nonny, hey nonny;
+   grave rain'd many  tear:--
+Fare  well,  dove!
+
+
+LAERTES
+
+Hadst thou thy wits,  didst persuade revenge,
+ could not move thus.
+
+
+OPHELIA
+
+[Sings]
+ must sing -down -down,
+An  call  -down-.
+O, how  wheel becomes !    false
+steward,  stole  master's daughter.
+
+
+LAERTES
+
+This nothing's more than matter.
+
+
+OPHELIA
+
+There's rosemary, 's  remembrance; pray,
+love, remember:  there  pansies. 's  thoughts.
+
+
+LAERTES
+
+ document  madness, thoughts  remembrance fitted.
+
+
+OPHELIA
+
+There's fennel  ,  columbines: there's rue
+ ;  here's some  :   call 
+herb-grace o' Sundays: O  must wear your rue 
+ difference. There's  daisy:   give 
+some violets,  they withered    father
+died: they say  made  good end,--
+Sings
+ bonny sweet Robin    joy.
+
+
+LAERTES
+
+Thought  affliction, passion, hell itself,
+ turns  favour   prettiness.
+
+
+OPHELIA
+
+[Sings]
+   not come again?
+   not come again?
+, ,   dead:
+Go  thy death-bed:
+ never  come again.
+His beard   white  snow,
+ flaxen   poll:
+  gone,   gone,
+  cast away moan:
+God ha' mercy   soul!
+   Christian souls,  pray God. God  wi' ye.
+Exit
+
+
+LAERTES
+
+  see this, O God?
+
+
+KING CLAUDIUS
+
+Laertes,  must commune  your grief,
+  deny  right. Go  apart,
+Make choice  whom your wisest friends  .
+ they shall hear  judge 'twixt   :
+ by direct  by collateral hand
+They find us touch'd,   our kingdom give,
+Our crown, our life,     can ours,
+   satisfaction;   not,
+Be  content  lend your patience  us,
+  shall jointly labour  your soul
+ give  due content.
+
+
+LAERTES
+
+Let this  ;
+His means  death,  obscure funeral--
+ trophy, sword, nor hatchment o'er  bones,
+ noble rite nor formal ostentation--
+Cry   heard,  'twere from heaven  earth,
+That  must call't  question.
+
+
+KING CLAUDIUS
+
+  shall;
+   offence  let  great axe fall.
+ pray , go  .
+Exeunt
+
+SCENE VI. Another room   castle.
+
+Enter HORATIO   Servant
+
+
+HORATIO
+
+  they   speak  ?
+
+
+Servant
+
+Sailors, sir: they say they have letters  .
+
+
+HORATIO
+
+Let  come .
+Exit Servant
+  not know from  part   world
+ should  greeted,  not from Lord Hamlet.
+Enter Sailors
+
+
+First Sailor
+
+God bless , sir.
+
+
+HORATIO
+
+Let  bless thee too.
+
+
+First Sailor
+
+ shall, sir, an't please . There's  letter 
+, sir;  comes from  ambassador  
+bound  England;  your name  Horatio,   
+let  know  .
+
+
+HORATIO
+
+[Reads]  'Horatio,  thou shalt have overlooked
+this, give these fellows some means   king:
+they have letters  . Ere  were two days old
+ sea,  pirate  very warlike appointment gave us
+chase. Finding ourselves too slow  sail,  put 
+ compelled valour,    grapple  boarded
+:   instant they got clear  our ship; 
+ alone became their prisoner. They have dealt 
+ like thieves  mercy:  they knew  they
+did;      good turn  . Let  king
+have  letters  have sent;  repair thou  
+  much speed  thou wouldst fly death. 
+have words  speak  thine ear  make thee
+dumb; yet  they much too light   bore 
+ matter. These good fellows  bring thee
+  . Rosencrantz  Guildenstern hold their
+course  England:    have much  tell
+thee. Farewell.
+'  thou knowest thine, HAMLET.'
+Come,   make  way  these your letters;
+ 't  speedier,    direct 
+  from whom  brought .
+Exeunt
+
+SCENE VII. Another room   castle.
+
+Enter KING CLAUDIUS  LAERTES
+
+
+KING CLAUDIUS
+
+ must your conscience  acquaintance seal,
+  must put   your heart  friend,
+Sith  have heard,    knowing ear,
+That  which hath your noble father slain
+Pursued  life.
+
+
+LAERTES
+
+                   well appears:  tell 
+Why  proceeded not against these feats,
+ crimeful   capital  nature,
+As by your safety, wisdom,  things else,
+ mainly were stirr'd .
+
+
+KING CLAUDIUS
+
+O,  two special reasons;
+Which   , perhaps, seem much unsinew'd,
+ yet   they  strong.  queen  mother
+Lives almost by  looks;   myself--
+ virtue   plague,   either which--
+'s  conjunctive   life  soul,
+That,   star moves not    sphere,
+ could not  by .  other motive,
+Why   public count  might not go,
+  great love  general gender bear ;
+Who, dipping   faults  their affection,
+, like  spring  turneth wood  stone,
+Convert  gyves  graces;    arrows,
+Too slightly timber'd   loud  wind,
+ have reverted   bow again,
+ not   had aim'd .
+
+
+LAERTES
+
+  have   noble father lost;
+ sister driven into desperate terms,
+Whose worth,  praises  go back again,
+Stood challenger  mount    age
+  perfections:   revenge  come.
+
+
+KING CLAUDIUS
+
+Break not your sleeps  :  must not think
+That   made  stuff  flat  dull
+That  can let our beard  shook  danger
+ think  pastime.  shortly shall hear more:
+ loved your father,   love ourself;
+ ,  hope,  teach   imagine--
+Enter  Messenger
+How !  news?
+
+
+Messenger
+
+Letters,  lord, from Hamlet:
+This  your majesty; this   queen.
+
+
+KING CLAUDIUS
+
+From Hamlet! who brought ?
+
+
+Messenger
+
+Sailors,  lord, they say;  saw  not:
+They were given  by Claudio;  received 
+Of   brought .
+
+
+KING CLAUDIUS
+
+Laertes,  shall hear . Leave us.
+Exit Messenger
+Reads
+'High  mighty,  shall know   set naked 
+your kingdom. -morrow shall  beg leave  see
+your kingly eyes:   shall, first asking your
+pardon thereunto, recount  occasion   sudden
+ more strange return.                  'HAMLET.'
+ should this mean? Are   rest come back?
+   some abuse,   such thing?
+
+
+LAERTES
+
+Know   hand?
+
+
+KING CLAUDIUS
+
+'Tis Hamlets character. 'Naked!
+   postscript here,  says 'alone.'
+Can  advise ?
+
+
+LAERTES
+
+'m lost  ,  lord.  let  come;
+ warms  very sickness   heart,
+That  shall live  tell    teeth,
+'Thus didest thou.'
+
+
+KING CLAUDIUS
+
+   , Laertes--
+As how should   ? how otherwise?--
+   ruled by ?
+
+
+LAERTES
+
+Ay,  lord;
+   not o'errule    peace.
+
+
+KING CLAUDIUS
+
+ thine own peace.     return'd,
+As checking   voyage,    means
+ more  undertake ,   work 
+ an exploit,  ripe   device,
+Under  which  shall not choose  fall:
+   death  wind  blame shall breathe,
+ even  mother shall uncharge  practise
+ call  accident.
+
+
+LAERTES
+
+ lord,    ruled;
+ rather,   could devise  
+That  might   organ.
+
+
+KING CLAUDIUS
+
+ falls right.
+ have been talk'd  since your travel much,
+   Hamlet's hearing,   quality
+Wherein, they say,  shine: your sum  parts
+Did not together pluck such envy from 
+As did  one,  ,   regard,
+Of  unworthiest siege.
+
+
+LAERTES
+
+ part  ,  lord?
+
+
+KING CLAUDIUS
+
+ very riband   cap  youth,
+Yet needful too;  youth  less becomes
+ light  careless livery   wears
+Than settled age  sables   weeds,
+Importing health  graveness. Two months since,
+Here   gentleman  Normandy:--
+'ve seen myself,  served against,  French,
+ they can well  horseback:  this gallant
+Had witchcraft 't;  grew unto  seat;
+  such wondrous doing brought  horse,
+As  had been incorpsed  demi-natured
+With  brave beast:  far  topp'd  thought,
+That ,  forgery  shapes  tricks,
+Come short    did.
+
+
+LAERTES
+
+ Norman 't?
+
+
+KING CLAUDIUS
+
+ Norman.
+
+
+LAERTES
+
+Upon  life, Lamond.
+
+
+KING CLAUDIUS
+
+ very same.
+
+
+LAERTES
+
+ know  well:    brooch indeed
+ gem    nation.
+
+
+KING CLAUDIUS
+
+ made confession  ,
+ gave  such  masterly report
+ art  exercise  your defence
+  your rapier most especially,
+That  cried out, 'twould   sight indeed,
+ one could match :  scrimers  their nation,
+ swore, had had neither motion, guard, nor eye,
+  opposed . Sir, this report  
+Did Hamlet  envenom   envy
+That  could nothing   wish  beg
+Your sudden coming o'er,  play  .
+, out  this,--
+
+
+LAERTES
+
+ out  this,  lord?
+
+
+KING CLAUDIUS
+
+Laertes,  your father dear  ?
+   like  painting   sorrow,
+ face without  heart?
+
+
+LAERTES
+
+Why ask  this?
+
+
+KING CLAUDIUS
+
+Not   think  did not love your father;
+   know love  begun by time;
+   see,  passages  proof,
+Time qualifies  spark  fire  .
+There lives within  very flame  love
+ kind  wick  snuff   abate ;
+ nothing    like goodness still;
+ goodness, growing   plurisy,
+Dies   own too much:    
+We should    ;  this '' changes
+ hath abatements  delays  many
+As there  tongues,  hands,  accidents;
+ then this 'should'  like  spendthrift sigh,
+That hurts by easing. ,   quick o'  ulcer:--
+Hamlet comes back:    undertake,
+ show yourself your father's son  deed
+More than  words?
+
+
+LAERTES
+
+ cut  throat '  church.
+
+
+KING CLAUDIUS
+
+ place, indeed, should murder sanctuarize;
+Revenge should have  bounds. , good Laertes,
+   this, keep close within your chamber.
+Hamlet return'd shall know   come home:
+We'll put   shall praise your excellence
+ set  double varnish   fame
+ Frenchman gave , bring   fine together
+ wager  your heads: , being remiss,
+Most generous  free from  contriving,
+ not peruse  foils;  ,  ease,
+   little shuffling,   choose
+ sword unbated,    pass  practise
+Requite   your father.
+
+
+LAERTES
+
+  't:
+,   purpose, 'll anoint  sword.
+ bought an unction   mountebank,
+ mortal ,  dip  knife  ,
+  draws blood  cataplasm  rare,
+Collected from  simples  have virtue
+Under  moon, can save  thing from death
+That   scratch'd withal: 'll touch  point
+With this contagion, ,   gall  slightly,
+   death.
+
+
+KING CLAUDIUS
+
+                  Let's further think  this;
+Weigh  convenience both  time  means
+May fit us  our shape:  this should fail,
+  our drift look through our bad performance,
+'Twere better not assay'd: therefore this project
+Should have  back  second,  might hold,
+ this should blast  proof. Soft! let  see:
+We'll make  solemn wager  your cunnings:  ha't.
+  your motion   hot  dry--
+As make your bouts more violent   end--
+   calls  drink, 'll have prepared 
+ chalice   nonce, whereon  sipping,
+  by chance escape your venom'd stuck,
+Our purpose  hold there.
+Enter QUEEN GERTRUDE
+How , sweet queen!
+
+
+QUEEN GERTRUDE
+
+One woe doth tread upon another's heel,
+ fast they follow; your sister's drown'd, Laertes.
+
+
+LAERTES
+
+Drown'd! O, ?
+
+
+QUEEN GERTRUDE
+
+There   willow grows aslant  brook,
+That shows  hoar leaves   glassy stream;
+There  fantastic garlands did  come
+Of crow-flowers, nettles, daisies,  long purples
+That liberal shepherds give  grosser name,
+ our cold maids  dead men's fingers call :
+There,   pendent boughs  coronet weeds
+Clambering  hang, an envious sliver broke;
+ down  weedy trophies  herself
+Fell   weeping brook.  clothes spread wide;
+, mermaid-like, awhile they bore  :
+Which time  chanted snatches  old tunes;
+As one incapable   own distress,
+ like  creature native  indued
+Unto  element:  long  could not 
+Till   garments, heavy  their drink,
+Pull'd  poor wretch from  melodious lay
+ muddy death.
+
+
+LAERTES
+
+                  Alas, then,   drown'd?
+
+
+QUEEN GERTRUDE
+
+Drown'd, drown'd.
+
+
+LAERTES
+
+Too much  water hast thou, poor Ophelia,
+ therefore  forbid  tears:  yet
+  our trick; nature  custom holds,
+Let shame say   :  these  gone,
+ woman   out. Adieu,  lord:
+ have  speech  fire,  fain  blaze,
+  this folly douts .
+Exit
+
+
+KING CLAUDIUS
+
+Let's follow, Gertrude:
+How much  had    calm  rage!
+ fear  this  give  start again;
+Therefore let's follow.
+Exeunt
+
+ACT V
+SCENE .  churchyard.
+
+Enter two Clowns,  spades,  & c
+
+
+First Clown
+
+    buried  Christian burial 
+wilfully seeks  own salvation?
+
+
+Second Clown
+
+ tell thee  :  therefore make  grave
+straight:  crowner hath sat  ,  finds 
+Christian burial.
+
+
+First Clown
+
+How can  , unless  drowned herself  
+own defence?
+
+
+Second Clown
+
+Why, 'tis found .
+
+
+First Clown
+
+ must  'se offendendo;'  cannot  else. 
+here lies  point:    drown myself wittingly,
+ argues an act:  an act hath three branches: 
+,  act,  ,  perform: argal,  drowned
+herself wittingly.
+
+
+Second Clown
+
+Nay,  hear , goodman delver,--
+
+
+First Clown
+
+Give  leave. Here lies  water; good: here
+stands  man; good;   man go  this water,
+ drown himself,  ,  , nill , 
+goes,--mark  ;    water come  
+ drown ,  drowns not himself: argal, 
+  not guilty   own death shortens not  own life.
+
+
+Second Clown
+
+  this law?
+
+
+First Clown
+
+Ay, marry, 't; crowner's quest law.
+
+
+Second Clown
+
+  ha'  truth 't?  this had not been
+ gentlewoman,  should have been buried out o'
+Christian burial.
+
+
+First Clown
+
+Why, there thou say'st:   more pity 
+great folk should have countenance  this world 
+drown  hang themselves, more than their even
+Christian. Come,  spade. There   ancient
+gentleman  gardeners, ditchers,  grave-makers:
+they hold  Adam's profession.
+
+
+Second Clown
+
+   gentleman?
+
+
+First Clown
+
+   first  ever bore arms.
+
+
+Second Clown
+
+Why,  had none.
+
+
+First Clown
+
+, art  heathen? How dost thou understand 
+Scripture?  Scripture says 'Adam digged:'
+could  dig without arms? 'll put another
+question  thee:  thou answerest  not  
+purpose, confess thyself--
+
+
+Second Clown
+
+Go .
+
+
+First Clown
+
+    builds stronger than either 
+mason,  shipwright,   carpenter?
+
+
+Second Clown
+
+ gallows-maker;   frame outlives 
+thousand tenants.
+
+
+First Clown
+
+ like thy wit well,  good faith:  gallows
+does well;  how does  well?  does well 
+   :  thou dost ill  say 
+gallows  built stronger than  church: argal,
+ gallows   well  thee. 't again, come.
+
+
+Second Clown
+
+'Who builds stronger than  mason,  shipwright, 
+ carpenter?'
+
+
+First Clown
+
+Ay, tell  ,  unyoke.
+
+
+Second Clown
+
+Marry,   can tell.
+
+
+First Clown
+
+'t.
+
+
+Second Clown
+
+Mass,  cannot tell.
+Enter HAMLET  HORATIO,   distance
+
+
+First Clown
+
+Cudgel thy brains  more about ,  your dull
+ass  not mend  pace  beating; , 
+  asked this question next, say '
+grave-maker: ' houses   makes last till
+doomsday. Go, get thee  Yaughan: fetch  
+stoup  liquor.
+Exit Second Clown
+ digs  sings
+ youth,   did love, did love,
+Methought   very sweet,
+ contract, O,  time, , ah,  behove,
+O, methought, there  nothing meet.
+
+
+HAMLET
+
+Has this fellow  feeling   business,  
+sings  grave-making?
+
+
+HORATIO
+
+Custom hath made     property  easiness.
+
+
+HAMLET
+
+'Tis e'en :  hand  little employment hath
+ daintier sense.
+
+
+First Clown
+
+[Sings]
+ age,   stealing steps,
+Hath claw'd    clutch,
+ hath shipped  intil  land,
+As   had never been such.
+Throws   skull
+
+
+HAMLET
+
+That skull had  tongue  ,  could sing once:
+how  knave jowls    ground,    were
+Cain's jaw-bone,  did  first murder! 
+might   pate   politician, which this ass
+ o'er-reaches; one   circumvent God,
+might  not?
+
+
+HORATIO
+
+ might,  lord.
+
+
+HAMLET
+
+   courtier; which could say 'Good morrow,
+sweet lord! How dost thou, good lord?' This might
+  lord such--one,  praised  lord
+such--one's horse,   meant  beg ; might  not?
+
+
+HORATIO
+
+Ay,  lord.
+
+
+HAMLET
+
+Why, e'en :    Lady Worm's; chapless, 
+knocked about  mazzard   sexton's spade:
+here's fine revolution, an  had  trick 
+see't. Did these bones cost  more  breeding,
+  play  loggats  'em? mine ache  think 't.
+
+
+First Clown
+
+[Sings]
+ pick-axe,   spade,  spade,
+   shrouding sheet:
+O,  pit  clay    made
+ such  guest  meet.
+Throws  another skull
+
+
+HAMLET
+
+There's another: why  not    skull  
+lawyer?    quiddities ,  quillets,
+ cases,  tenures,   tricks? why does 
+suffer this rude knave   knock  about 
+sconce   dirty shovel,   not tell  
+ action  battery? Hum! This fellow might 
+'s time  great buyer  land,   statutes,
+ recognizances,  fines,  double vouchers,
+ recoveries:  this  fine   fines, 
+ recovery   recoveries,  have  fine
+pate full  fine dirt?   vouchers vouch 
+ more   purchases,  double ones too, than
+ length  breadth   pair  indentures? 
+very conveyances   lands  hardly lie 
+this box;  must  inheritor himself have  more, ha?
+
+
+HORATIO
+
+Not  jot more,  lord.
+
+
+HAMLET
+
+ not parchment made  sheepskins?
+
+
+HORATIO
+
+Ay,  lord,   calf-skins too.
+
+
+HAMLET
+
+They  sheep  calves which seek out assurance
+ .   speak  this fellow. Whose
+grave's this, sirrah?
+
+
+First Clown
+
+Mine, sir.
+Sings
+O,  pit  clay    made
+ such  guest  meet.
+
+
+HAMLET
+
+ think   thine, indeed;  thou liest 't.
+
+
+First Clown
+
+ lie out 't, sir,  therefore   not
+yours:   part,   not lie 't,  yet   mine.
+
+
+HAMLET
+
+'Thou dost lie 't,   't  say   thine:
+'tis   dead, not   quick; therefore thou liest.
+
+
+First Clown
+
+'Tis  quick lie, sir; 'twill away gain, from  
+.
+
+
+HAMLET
+
+ man dost thou dig  ?
+
+
+First Clown
+
+  man, sir.
+
+
+HAMLET
+
+ woman, then?
+
+
+First Clown
+
+ none, neither.
+
+
+HAMLET
+
+Who    buried 't?
+
+
+First Clown
+
+One    woman, sir; , rest  soul, 's dead.
+
+
+HAMLET
+
+How absolute  knave !  must speak by 
+card,  equivocation  undo us. By  Lord,
+Horatio, these three years  have taken  note 
+;  age  grown  picked   toe  
+peasant comes  near  heel   courtier, 
+gaffs  kibe. How long hast thou been 
+grave-maker?
+
+
+First Clown
+
+Of   days '  year,  came 't  day
+ our last king Hamlet overcame Fortinbras.
+
+
+HAMLET
+
+How long   since?
+
+
+First Clown
+
+Cannot  tell ? every fool can tell : 
+  very day  young Hamlet  born;  
+ mad,  sent into England.
+
+
+HAMLET
+
+Ay, marry, why   sent into England?
+
+
+First Clown
+
+Why, because   mad:  shall recover  wits
+there; ,    not, 's  great matter there.
+
+
+HAMLET
+
+Why?
+
+
+First Clown
+
+'Twill,  not  seen   there; there  men
+  mad  .
+
+
+HAMLET
+
+How came  mad?
+
+
+First Clown
+
+Very strangely, they say.
+
+
+HAMLET
+
+How strangely?
+
+
+First Clown
+
+Faith, e'en  losing  wits.
+
+
+HAMLET
+
+Upon  ground?
+
+
+First Clown
+
+Why, here  Denmark:  have been sexton here, man
+ boy, thirty years.
+
+
+HAMLET
+
+How long   man lie '  earth ere  rot?
+
+
+First Clown
+
+' faith,    not rotten before  die-- 
+have many pocky corses --days,   scarce
+hold  laying --  last  some eight year
+ nine year:  tanner  last  nine year.
+
+
+HAMLET
+
+Why  more than another?
+
+
+First Clown
+
+Why, sir,  hide   tanned   trade, 
+  keep out water  great while;  your water
+  sore decayer  your whoreson dead body.
+Here's  skull ; this skull has lain   earth
+three  twenty years.
+
+
+HAMLET
+
+Whose  ?
+
+
+First Clown
+
+ whoreson mad fellow's  : whose   think  ?
+
+
+HAMLET
+
+Nay,  know not.
+
+
+First Clown
+
+ pestilence     mad rogue! ' poured 
+flagon  Rhenish   head once. This same skull,
+sir,  Yorick's skull,  king's jester.
+
+
+HAMLET
+
+This?
+
+
+First Clown
+
+E'en .
+
+
+HAMLET
+
+Let  see.
+Takes  skull
+Alas, poor Yorick!  knew , Horatio:  fellow
+ infinite jest,  most excellent fancy:  hath
+borne    back  thousand times;  , how
+abhorred   imagination  !  gorge rims 
+. Here hung  lips   have kissed  know
+not how oft.   your gibes ? your
+gambols? your songs? your flashes  merriment,
+ were wont  set  table   roar? Not one
+,  mock your own grinning? quite chap-fallen?
+ get    lady's chamber,  tell , let
+ paint an inch thick,  this favour  must
+come; make  laugh  . Prithee, Horatio, tell
+ one thing.
+
+
+HORATIO
+
+'s ,  lord?
+
+
+HAMLET
+
+Dost thou think Alexander looked o' this fashion '
+ earth?
+
+
+HORATIO
+
+E'en .
+
+
+HAMLET
+
+ smelt ? pah!
+Puts down  skull
+
+
+HORATIO
+
+E'en ,  lord.
+
+
+HAMLET
+
+  base uses   return, Horatio! Why 
+not imagination trace  noble dust  Alexander,
+till  find  stopping  bung-hole?
+
+
+HORATIO
+
+'Twere  consider too curiously,  consider .
+
+
+HAMLET
+
+, faith, not  jot;   follow  thither 
+modesty enough,  likelihood  lead : 
+thus: Alexander died, Alexander  buried,
+Alexander returneth into dust;  dust  earth; 
+earth  make loam;  why   loam, whereto 
+ converted, might they not stop  beer-barrel?
+Imperious Caesar, dead  turn'd  clay,
+Might stop  hole  keep  wind away:
+O,   earth, which kept  world  awe,
+Should patch  wall  expel  winter flaw!
+ soft!  soft! aside: here comes  king.
+Enter Priest,  & c.  procession;  Corpse   OPHELIA, LAERTES  Mourners following; KING CLAUDIUS, QUEEN GERTRUDE, their trains,  & c
+ queen,  courtiers: who  this they follow?
+  such maimed rites? This doth betoken
+ corse they follow did  desperate hand
+Fordo its own life: 'twas  some estate.
+Couch  awhile,  mark.
+Retiring  HORATIO
+
+
+LAERTES
+
+ ceremony else?
+
+
+HAMLET
+
+That  Laertes,
+ very noble youth: mark.
+
+
+LAERTES
+
+ ceremony else?
+
+
+First Priest
+
+ obsequies have been  far enlarged
+As  have warrantise:  death  doubtful;
+,   great command o'ersways  order,
+ should  ground unsanctified have lodged
+Till  last trumpet:  charitable prayers,
+Shards, flints  pebbles should  thrown  ;
+Yet here   allow'd  virgin crants,
+ maiden strewments   bringing home
+Of bell  burial.
+
+
+LAERTES
+
+Must there  more  done?
+
+
+First Priest
+
+ more  done:
+We should profane  service   dead
+ sing  requiem  such rest  
+As  peace-parted souls.
+
+
+LAERTES
+
+Lay  '  earth:
+ from  fair  unpolluted flesh
+May violets spring!  tell thee, churlish priest,
+ ministering angel shall  sister ,
+ thou liest howling.
+
+
+HAMLET
+
+,  fair Ophelia!
+
+
+QUEEN GERTRUDE
+
+Sweets   sweet: farewell!
+Scattering flowers
+ hoped thou shouldst have been  Hamlet's wife;
+ thought thy bride-bed  have deck'd, sweet maid,
+ not have strew'd thy grave.
+
+
+LAERTES
+
+O, treble woe
+Fall ten times treble   cursed head,
+Whose wicked deed thy most ingenious sense
+Deprived thee ! Hold off  earth awhile,
+Till  have caught  once more  mine arms:
+Leaps into  grave
+ pile your dust upon  quick  dead,
+Till  this flat  mountain  have made,
+ o'ertop old Pelion,   skyish head
+Of blue Olympus.
+
+
+HAMLET
+
+[Advancing]        whose grief
+Bears such an emphasis? whose phrase  sorrow
+Conjures  wandering stars,  makes  stand
+Like wonder-wounded hearers? This  ,
+Hamlet  Dane.
+Leaps into  grave
+
+
+LAERTES
+
+                   devil take thy soul!
+Grappling  
+
+
+HAMLET
+
+Thou pray'st not well.
+ prithee, take thy fingers from  throat;
+, though   not splenitive  rash,
+Yet have  something   dangerous,
+Which let thy wiseness fear: hold off thy hand.
+
+
+KING CLAUDIUS
+
+Pluck  asunder.
+
+
+QUEEN GERTRUDE
+
+Hamlet, Hamlet!
+
+
+
+
+Gentlemen,--
+
+
+HORATIO
+
+                  Good  lord,  quiet.
+ Attendants part ,  they come out   grave
+
+
+HAMLET
+
+Why   fight   upon this theme
+Until  eyelids   longer wag.
+
+
+QUEEN GERTRUDE
+
+O  son,  theme?
+
+
+HAMLET
+
+ loved Ophelia: forty thousand brothers
+Could not,   their quantity  love,
+Make   sum.  wilt thou   ?
+
+
+KING CLAUDIUS
+
+O,   mad, Laertes.
+
+
+QUEEN GERTRUDE
+
+ love  God, forbear .
+
+
+HAMLET
+
+'Swounds, show   thou'lt :
+Woo't weep? woo't fight? woo't fast? woo't tear thyself?
+Woo't drink  eisel? eat  crocodile?
+'ll 't. Dost thou come here  whine?
+ outface   leaping   grave?
+Be buried quick  ,    :
+,  thou prate  mountains, let  throw
+Millions  acres  us, till our ground,
+Singeing  pate against  burning zone,
+Make Ossa like  wart! Nay, an thou'lt mouth,
+'ll rant  well  thou.
+
+
+QUEEN GERTRUDE
+
+This  mere madness:
+ thus awhile  fit  work  ;
+Anon,  patient   female dove,
+   golden couplets  disclosed,
+His silence  sit drooping.
+
+
+HAMLET
+
+Hear , sir;
+   reason   use  thus?
+ loved  ever:     matter;
+Let Hercules himself    ,
+ cat  mew  dog  have  day.
+Exit
+
+
+KING CLAUDIUS
+
+ pray , good Horatio, wait upon .
+Exit HORATIO
+ LAERTES
+Strengthen your patience  our last night's speech;
+We'll put  matter   present push.
+Good Gertrude, set some watch over your son.
+This grave shall have  living monument:
+An hour  quiet shortly shall  see;
+Till then,  patience our proceeding .
+Exeunt
+
+SCENE II.  hall   castle.
+
+Enter HAMLET  HORATIO
+
+
+HAMLET
+
+ much  this, sir:  shall  see  other;
+  remember   circumstance?
+
+
+HORATIO
+
+Remember ,  lord?
+
+
+HAMLET
+
+Sir,   heart there   kind  fighting,
+That  not let  sleep: methought  lay
+Worse than  mutines   bilboes. Rashly,
+ praised  rashness  , let us know,
+Our indiscretion sometimes serves us well,
+ our deep plots  pall:   should teach us
+There's  divinity  shapes our ends,
+Rough-hew  how  ,--
+
+
+HORATIO
+
+That  most certain.
+
+
+HAMLET
+
+Up from  cabin,
+ sea-gown scarf'd about ,   dark
+Groped   find out ; had  desire.
+Finger'd their packet,   fine withdrew
+ mine own room again; making  bold,
+ fears forgetting manners,  unseal
+Their grand commission;   found, Horatio,--
+O royal knavery!--an exact command,
+Larded  many several sorts  reasons
+Importing Denmark's health  England's too,
+With, ho! such bugs  goblins   life,
+That,   supervise,  leisure bated,
+, not  stay  grinding   axe,
+ head should  struck off.
+
+
+HORATIO
+
+'t possible?
+
+
+HAMLET
+
+Here's  commission: read   more leisure.
+ wilt thou hear  how  did proceed?
+
+
+HORATIO
+
+ beseech .
+
+
+HAMLET
+
+Being thus -netted round  villanies,--
+Ere  could make  prologue   brains,
+They had begun  play-- sat  down,
+Devised  new commission, wrote  fair:
+ once did hold ,  our statists ,
+ baseness  write fair  labour'd much
+How  forget  learning, , sir, 
+ did  yeoman's service: wilt thou know
+ effect    wrote?
+
+
+HORATIO
+
+Ay, good  lord.
+
+
+HAMLET
+
+An earnest conjuration from  king,
+As England   faithful tributary,
+As love between  like  palm might flourish,
+As peace should stiff  wheaten garland wear
+ stand  comma 'tween their amities,
+ many such-like 'As'es  great charge,
+That,   view  knowing  these contents,
+Without debatement further, more  less,
+ should  bearers put  sudden death,
+Not shriving-time allow'd.
+
+
+HORATIO
+
+How  this seal'd?
+
+
+HAMLET
+
+Why, even    heaven ordinant.
+ had  father's signet   purse,
+Which   model   Danish seal;
+Folded  writ   form   other,
+Subscribed , gave't  impression, placed  safely,
+ changeling never known. ,  next day
+ our sea-fight;    this  sequent
+Thou know'st already.
+
+
+HORATIO
+
+ Guildenstern  Rosencrantz go 't.
+
+
+HAMLET
+
+Why, man, they did make love  this employment;
+They  not near  conscience; their defeat
+Does by their own insinuation grow:
+'Tis dangerous   baser nature comes
+Between  pass  fell incensed points
+Of mighty opposites.
+
+
+HORATIO
+
+Why,   king  this!
+
+
+HAMLET
+
+Does  not, think'st thee, stand   upon--
+  hath kill'd  king  whored  mother,
+Popp'd  between  election   hopes,
+Thrown out  angle   proper life,
+  such cozenage--'t not perfect conscience,
+ quit   this arm?  't not   damn'd,
+ let this canker  our nature come
+ further evil?
+
+
+HORATIO
+
+ must  shortly known   from England
+   issue   business there.
+
+
+HAMLET
+
+   short:  interim  mine;
+  man's life's  more than  say 'One.'
+   very sorry, good Horatio,
+That  Laertes  forgot myself;
+, by  image   cause,  see
+ portraiture  : 'll court  favours.
+, sure,  bravery   grief did put 
+Into  towering passion.
+
+
+HORATIO
+
+Peace! who comes here?
+Enter OSRIC
+
+
+OSRIC
+
+Your lordship  right welcome back  Denmark.
+
+
+HAMLET
+
+ humbly thank , sir. Dost know this water-fly?
+
+
+HORATIO
+
+,  good lord.
+
+
+HAMLET
+
+Thy state   more gracious;  'tis  vice 
+know .  hath much land,  fertile: let 
+beast  lord  beasts,   crib shall stand 
+ king's mess: 'tis  chough; ,   say,
+spacious   possession  dirt.
+
+
+OSRIC
+
+Sweet lord,  your lordship were  leisure, 
+should impart  thing   from  majesty.
+
+
+HAMLET
+
+  receive , sir,   diligence 
+spirit. Put your bonnet   right use; 'tis   head.
+
+
+OSRIC
+
+ thank your lordship,   very hot.
+
+
+HAMLET
+
+, believe , 'tis very cold;  wind 
+northerly.
+
+
+OSRIC
+
+  indifferent cold,  lord, indeed.
+
+
+HAMLET
+
+ yet methinks   very sultry  hot  
+complexion.
+
+
+OSRIC
+
+Exceedingly,  lord;   very sultry,--
+'twere,-- cannot tell how. ,  lord, 
+majesty bade  signify     has laid 
+great wager  your head: sir, this   matter,--
+
+
+HAMLET
+
+ beseech , remember--
+HAMLET moves   put   hat
+
+
+OSRIC
+
+Nay, good  lord;  mine ease,  good faith.
+Sir, here  newly come  court Laertes; believe
+, an absolute gentleman, full  most excellent
+differences,  very soft society  great showing:
+indeed,  speak feelingly  ,    card 
+calendar  gentry,   shall find   
+continent   part  gentleman  see.
+
+
+HAMLET
+
+Sir,  definement suffers  perdition  ;
+though,  know,  divide  inventorially 
+dizzy  arithmetic  memory,  yet  yaw
+neither,  respect   quick sail. ,  
+verity  extolment,  take     soul 
+great article;   infusion  such dearth 
+rareness, ,  make true diction  , 
+semblable   mirror;  who else  trace
+,  umbrage, nothing more.
+
+
+OSRIC
+
+Your lordship speaks most infallibly  .
+
+
+HAMLET
+
+ concernancy, sir? why   wrap  gentleman
+ our more rawer breath?
+
+
+OSRIC
+
+Sir?
+
+
+HORATIO
+
+'t not possible  understand  another tongue?
+  't, sir, really.
+
+
+HAMLET
+
+ imports  nomination  this gentleman?
+
+
+OSRIC
+
+Of Laertes?
+
+
+HORATIO
+
+His purse  empty already; 's golden words  spent.
+
+
+HAMLET
+
+Of , sir.
+
+
+OSRIC
+
+ know   not ignorant--
+
+
+HAMLET
+
+   did, sir; yet,  faith,   did,
+  not much approve . Well, sir?
+
+
+OSRIC
+
+  not ignorant   excellence Laertes --
+
+
+HAMLET
+
+ dare not confess , lest  should compare 
+  excellence; ,  know  man well, were 
+know himself.
+
+
+OSRIC
+
+ mean, sir,   weapon;    imputation
+laid   by ,   meed 's unfellowed.
+
+
+HAMLET
+
+'s  weapon?
+
+
+OSRIC
+
+Rapier  dagger.
+
+
+HAMLET
+
+That's two   weapons: , well.
+
+
+OSRIC
+
+ king, sir, hath wagered   six Barbary
+horses: against  which  has imponed,   take
+, six French rapiers  poniards,  their
+assigns,  girdle, hangers,  : three  
+carriages,  faith,  very dear  fancy, very
+responsive   hilts, most delicate carriages,
+  very liberal conceit.
+
+
+HAMLET
+
+ call   carriages?
+
+
+HORATIO
+
+ knew  must  edified by  margent ere  had done.
+
+
+OSRIC
+
+ carriages, sir,   hangers.
+
+
+HAMLET
+
+ phrase   more german   matter,  
+could carry cannon by our sides:    might
+ hangers till then. , : six Barbary horses
+against six French swords, their assigns,  three
+liberal-conceited carriages; 's  French bet
+against  Danish. Why  this 'imponed,'   call ?
+
+
+OSRIC
+
+ king, sir, hath laid,    dozen passes
+between yourself  ,  shall not exceed 
+three hits:  hath laid  twelve  nine;  
+ come  immediate trial,  your lordship
+ vouchsafe  answer.
+
+
+HAMLET
+
+How   answer ''?
+
+
+OSRIC
+
+ mean,  lord,  opposition  your person  trial.
+
+
+HAMLET
+
+Sir,   walk here   hall:   please 
+majesty, 'tis  breathing time  day  ; let
+ foils  brought,  gentleman willing,  
+king hold  purpose,   win   an  can;
+ not,   gain nothing   shame   odd hits.
+
+
+OSRIC
+
+Shall  re-deliver  e'en ?
+
+
+HAMLET
+
+ this effect, sir; after  flourish your nature .
+
+
+OSRIC
+
+ commend  duty  your lordship.
+
+
+HAMLET
+
+Yours, yours.
+Exit OSRIC
+ does well  commend  himself; there  
+tongues else 's turn.
+
+
+HORATIO
+
+This lapwing runs away   shell   head.
+
+
+HAMLET
+
+ did comply   dug, before  sucked .
+Thus has -- many more   same bevy  
+know  dressy age dotes --only got  tune 
+ time  outward habit  encounter;  kind 
+yesty collection, which carries  through 
+through  most fond  winnowed opinions;  
+ blow   their trial,  bubbles  out.
+Enter  Lord
+
+
+Lord
+
+ lord,  majesty commended    by young
+Osric, who brings back     attend  
+ hall:  sends  know  your pleasure hold 
+play  Laertes,     take longer time.
+
+
+HAMLET
+
+  constant   purpose; they follow  king's
+pleasure:   fitness speaks, mine  ready; 
+ whensoever, provided    able  .
+
+
+Lord
+
+ king  queen    coming down.
+
+
+HAMLET
+
+ happy time.
+
+
+Lord
+
+ queen desires   use some gentle
+entertainment  Laertes before  fall  play.
+
+
+HAMLET
+
+ well instructs .
+Exit Lord
+
+
+HORATIO
+
+  lose this wager,  lord.
+
+
+HAMLET
+
+  not think : since  went into France, 
+have been  continual practise:  shall win  
+odds.  thou wouldst not think how ill 's here
+about  heart:     matter.
+
+
+HORATIO
+
+Nay, good  lord,--
+
+
+HAMLET
+
+   foolery;    such  kind 
+gain-giving,   perhaps trouble  woman.
+
+
+HORATIO
+
+ your mind dislike any thing, obey :  
+forestall their repair hither,  say   not
+fit.
+
+
+HAMLET
+
+Not  whit,  defy augury: there's  special
+providence   fall   sparrow.    ,
+'tis not  come;    not  come,   
+;    not , yet   come: 
+readiness  : since  man has aught   
+leaves,  't  leave betimes?
+Enter KING CLAUDIUS, QUEEN GERTRUDE, LAERTES, Lords, OSRIC,  Attendants  foils,  & c
+
+
+KING CLAUDIUS
+
+Come, Hamlet, come,  take this hand from .
+KING CLAUDIUS puts LAERTES' hand into HAMLET's
+
+
+HAMLET
+
+Give  your pardon, sir: 've done  wrong;
+ pardon't,     gentleman.
+This presence knows,
+  must needs have heard, how   punish'd
+With sore distraction.   have done,
+That might your nature, honour  exception
+Roughly awake,  here proclaim  madness.
+'t Hamlet wrong'd Laertes? Never Hamlet:
+ Hamlet from himself  ta'en away,
+  's not himself does wrong Laertes,
+Then Hamlet does  not, Hamlet denies .
+Who does , then? His madness: 't  ,
+Hamlet    faction   wrong'd;
+His madness  poor Hamlet's enemy.
+Sir,  this audience,
+Let  disclaiming from  purposed evil
+Free   far  your most generous thoughts,
+That  have shot mine arrow o'er  house,
+ hurt  brother.
+
+
+LAERTES
+
+  satisfied  nature,
+Whose motive,  this case, should stir  most
+  revenge:    terms  honour
+ stand aloof;    reconcilement,
+Till by some elder masters,  known honour,
+ have  voice  precedent  peace,
+ keep  name ungored.  till  time,
+  receive your offer'd love like love,
+  not wrong .
+
+
+HAMLET
+
+ embrace  freely;
+  this brother's wager frankly play.
+Give us  foils. Come .
+
+
+LAERTES
+
+Come, one  .
+
+
+HAMLET
+
+'ll  your foil, Laertes:  mine ignorance
+Your skill shall, like  star '  darkest night,
+Stick fiery off indeed.
+
+
+LAERTES
+
+ mock , sir.
+
+
+HAMLET
+
+, by this hand.
+
+
+KING CLAUDIUS
+
+Give   foils, young Osric. Cousin Hamlet,
+ know  wager?
+
+
+HAMLET
+
+Very well,  lord
+Your grace hath laid  odds o'  weaker side.
+
+
+KING CLAUDIUS
+
+  not fear ;  have seen  both:
+ since   better'd,  have therefore odds.
+
+
+LAERTES
+
+This  too heavy, let  see another.
+
+
+HAMLET
+
+This likes  well. These foils have   length?
+They prepare  play
+
+
+OSRIC
+
+Ay,  good lord.
+
+
+KING CLAUDIUS
+
+Set   stoops  wine upon  table.
+ Hamlet give  first  second hit,
+ quit  answer   third exchange,
+Let   battlements their ordnance fire:
+ king shall drink  Hamlet's better breath;
+   cup an union shall  throw,
+Richer than  which four successive kings
+ Denmark's crown have worn. Give   cups;
+ let  kettle   trumpet speak,
+ trumpet   cannoneer without,
+ cannons   heavens,  heavens  earth,
+'  king dunks  Hamlet.' Come, begin:
+ ,  judges, bear  wary eye.
+
+
+HAMLET
+
+Come , sir.
+
+
+LAERTES
+
+                  Come,  lord.
+They play
+
+
+HAMLET
+
+One.
+
+
+LAERTES
+
+.
+
+
+HAMLET
+
+Judgment.
+
+
+OSRIC
+
+ hit,  very palpable hit.
+
+
+LAERTES
+
+Well; again.
+
+
+KING CLAUDIUS
+
+Stay; give  drink. Hamlet, this pearl  thine;
+Here's  thy health.
+Trumpets sound,  cannon shot off within
+Give   cup.
+
+
+HAMLET
+
+'ll play this bout first; set  by awhile. Come.
+They play
+Another hit;  say ?
+
+
+LAERTES
+
+ touch,  touch,   confess.
+
+
+KING CLAUDIUS
+
+Our son shall win.
+
+
+QUEEN GERTRUDE
+
+                  's fat,  scant  breath.
+Here, Hamlet, take  napkin, rub thy brows;
+ queen carouses  thy fortune, Hamlet.
+
+
+HAMLET
+
+Good madam!
+
+
+KING CLAUDIUS
+
+          Gertrude,  not drink.
+
+
+QUEEN GERTRUDE
+
+ ,  lord;  pray , pardon .
+
+
+KING CLAUDIUS
+
+[Aside]     poison'd cup:   too late.
+
+
+HAMLET
+
+ dare not drink yet, madam; by  by.
+
+
+QUEEN GERTRUDE
+
+Come, let  wipe thy face.
+
+
+LAERTES
+
+ lord, 'll hit  .
+
+
+KING CLAUDIUS
+
+  not think't.
+
+
+LAERTES
+
+[Aside]   yet 'tis almost 'gainst  conscience.
+
+
+HAMLET
+
+Come,   third, Laertes:   dally;
+ pray , pass  your best violence;
+  afeard  make  wanton  .
+
+
+LAERTES
+
+Say  ? come .
+They play
+
+
+OSRIC
+
+Nothing, neither way.
+
+
+LAERTES
+
+Have   !
+LAERTES wounds HAMLET; then  scuffling, they change rapiers,  HAMLET wounds LAERTES
+
+
+KING CLAUDIUS
+
+Part ; they  incensed.
+
+
+HAMLET
+
+Nay, come, again.
+QUEEN GERTRUDE falls
+
+
+OSRIC
+
+                  Look   queen there, ho!
+
+
+HORATIO
+
+They bleed  both sides. How  ,  lord?
+
+
+OSRIC
+
+How 't, Laertes?
+
+
+LAERTES
+
+Why,   woodcock  mine own springe, Osric;
+  justly kill'd  mine own treachery.
+
+
+HAMLET
+
+How does  queen?
+
+
+KING CLAUDIUS
+
+ swounds  see  bleed.
+
+
+QUEEN GERTRUDE
+
+, ,  drink,  drink,--O  dear Hamlet,--
+ drink,  drink!   poison'd.
+Dies
+
+
+HAMLET
+
+O villany! Ho! let  door  lock'd:
+Treachery! Seek  out.
+
+
+LAERTES
+
+  here, Hamlet: Hamlet, thou art slain;
+ medicine   world can  thee good;
+ thee there  not half an hour  life;
+ treacherous instrument   thy hand,
+Unbated  envenom'd:  foul practise
+Hath turn'd itself   lo, here  lie,
+Never  rise again: thy mother's poison'd:
+ can  more:  king,  king's  blame.
+
+
+HAMLET
+
+ point!--envenom'd too!
+Then, venom,  thy work.
+Stabs KING CLAUDIUS
+
+
+
+
+Treason! treason!
+
+
+KING CLAUDIUS
+
+O, yet defend , friends;    hurt.
+
+
+HAMLET
+
+Here, thou incestuous, murderous, damned Dane,
+Drink off this potion.  thy union here?
+Follow  mother.
+KING CLAUDIUS dies
+
+
+LAERTES
+
+                    justly served;
+   poison temper'd by himself.
+Exchange forgiveness  , noble Hamlet:
+Mine   father's death come not upon thee,
+Nor thine  .
+Dies
+
+
+HAMLET
+
+Heaven make thee free  !  follow thee.
+  dead, Horatio. Wretched queen, adieu!
+  look pale  tremble  this chance,
+That   mutes  audience  this act,
+Had   time-- this fell sergeant, death,
+ strict   arrest--O,  could tell --
+ let  . Horatio,   dead;
+Thou livest; report    cause aright
+  unsatisfied.
+
+
+HORATIO
+
+Never believe :
+  more an antique Roman than  Dane:
+Here's yet some liquor left.
+
+
+HAMLET
+
+As thou'rt  man,
+Give   cup: let go; by heaven, 'll have't.
+O good Horatio,   wounded name,
+Things standing thus unknown, shall live behind !
+ thou didst ever hold   thy heart
+Absent thee from felicity awhile,
+  this harsh world draw thy breath  pain,
+ tell  story.
+March afar off,  shot within
+ warlike noise  this?
+
+
+OSRIC
+
+Young Fortinbras,  conquest come from Poland,
+  ambassadors  England gives
+This warlike volley.
+
+
+HAMLET
+
+O,  die, Horatio;
+ potent poison quite o'er-crows  spirit:
+ cannot live  hear  news from England;
+   prophesy  election lights
+On Fortinbras:  has  dying voice;
+ tell ,   occurrents, more  less,
+Which have solicited.  rest  silence.
+Dies
+
+
+HORATIO
+
+ cracks  noble heart. Good night sweet prince:
+ flights  angels sing thee  thy rest!
+Why does  drum come hither?
+March within
+Enter FORTINBRAS,  English Ambassadors,  others
+
+
+PRINCE FORTINBRAS
+
+  this sight?
+
+
+HORATIO
+
+   ye  see?
+ aught  woe  wonder, cease your search.
+
+
+PRINCE FORTINBRAS
+
+This quarry cries  havoc. O proud death,
+ feast  toward  thine eternal cell,
+That thou  many princes   shot
+ bloodily hast struck?
+
+
+First Ambassador
+
+ sight  dismal;
+ our affairs from England come too late:
+ ears  senseless  should give us hearing,
+ tell   commandment  fulfill'd,
+That Rosencrantz  Guildenstern  dead:
+ should  have our thanks?
+
+
+HORATIO
+
+Not from  mouth,
+Had   ability  life  thank :
+ never gave commandment  their death.
+ since,  jump upon this bloody question,
+ from  Polack wars,   from England,
+Are here arrived give order  these bodies
+High   stage  placed   view;
+ let  speak   yet unknowing world
+How these things came about:  shall  hear
+Of carnal, bloody,  unnatural acts,
+Of accidental judgments, casual slaughters,
+Of deaths put  by cunning  forced cause,
+,  this upshot, purposes mistook
+Fall'n   inventors' reads:  this can 
+Truly deliver.
+
+
+PRINCE FORTINBRAS
+
+                  Let us haste  hear ,
+ call  noblest   audience.
+ ,  sorrow  embrace  fortune:
+ have some rights  memory  this kingdom,
+Which   claim  vantage doth invite .
+
+
+HORATIO
+
+Of   shall have also cause  speak,
+ from  mouth whose voice  draw  more;
+ let this same  presently perform'd,
+Even while men's minds  wild; lest more mischance
+On plots  errors, happen.
+
+
+PRINCE FORTINBRAS
+
+Let four captains
+Bear Hamlet, like  soldier,   stage;
+   likely, had  been put ,
+ have proved most royally: ,   passage,
+ soldiers' music   rites  war
+Speak loudly  .
+Take   bodies: such  sight  this
+Becomes  field,  here shows much amiss.
+Go, bid  soldiers shoot.
+ dead march. Exeunt, bearing off  dead bodies; after which  peal  ordnance  shot off
+
+
+
+
